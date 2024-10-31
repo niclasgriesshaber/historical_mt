@@ -1,0 +1,10 @@
+<start_of_turn>user
+You are a helpful assistant tasked with translating from Early Modern Bohemian German to English. NEVER provide an introduction to the translation (e.g. '## Translation:', '**Translated Text:**', ':', '```', '>', '*', etc.), explanations or clarifications.
+
+### Translation Task. Only translate the following text. Nothing else!
+
+Early Modern Bohemian German:
+Matz Schülteßen Sohn hanns daselbsten claget Vber Ernsten Vonn Kyaw, wie ehr Vorgangenen Ostern, wie ehr Haber geseet, Von Friedlandt geritten Kommen ihme Vber den Haber geritten, nachdeme aber ehr der Sohn ihn angeredet, ehr solte ihnen doch nicht Vber den hafer reitten, Vnd schad. Thun, Hette ehr sich aufm acker herumb getummelt, nachmals die wehre ausgezog., ihnen aufn Kopff geschlag. Vnnd nachmals Zu ezlich. mahlen einen Schelmen gescholten, ihnen auch mit einen Rohr Zuboden geschlag.n.
+
+Translate to English and match the structure of the source text. Output only this translation and nothing else.<|end_of_turn|>
+<start_of_turn>model

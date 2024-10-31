@@ -1,0 +1,1038 @@
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+You are a helpful assistant tasked with translating from English to Early Modern Bohemian German. NEVER provide an introduction to the translation (e.g. 'Here is the translation:', 'Translate to', 'Hier ist die Übersetzung:', etc.), explanations or clarifications.
+NEVER provide a note after your translation. In the following, there are some examples how you should translate in the translation task.<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+
+### Example Translations:
+
+Example 1
+English:
+The village headman of Mildenau names Hans Nicht and Mertin Lucass as pledges that he will pay correctly between now and Saturday, Friedland 23 Oct 1585
+
+Translation to Early Modern Bohemian German:
+Der Schulteß Zu Mildenaw, hatt Hanß Nichten vnd Mertin Lucaßen Zu Purgen gesatzt, das er sich von dato Zwischen hier vnd Sonnabents richtig Zahlen vnd befridigen will, Sig: Fridland den 23 Octobris A.o 85.
+
+
+Example 2
+English:
+Jacob Seidel from Hainersdorf, since he attacked Michael Schwerdner with defamatory words, for which reason he was taken into imprisonment and released again on pledges, thus and as follows, that he shall leave the said Michael Schwerdtner henceforth completely in peace and undefamed, also report back when he is summoned, for which is pledge Christoff Drumel from Hainersdorf, signed 27 Mar 1588
+
+Translation to Early Modern Bohemian German:
+Jacob Seidel von hainerßdorff, demnach er Michael Schwerdnern mit ehrrurigen wortten angriffen darumb er gefenglich eingezogen vnd zu Purgen wiederumb außgeben, Also vnd dergestaldt, das er gemeltten Michael schwerdtnern hinfurter genzlichen zu frieden vnnd vngeschmehet sol laßen, auch wan er gefodert wirdt sich wieder gestelle, dafur Purge Christoff drumel von hainerßdorff Signatum den 27 Martij Ao p 88.
+
+
+Example 3
+English:
+To Grundtman's complaint the village headman answers that he admits that Grundtman had villainously complained behind his back in the manorial court, hereupon Grundtman had demonstrated untruth, and the latter had been instructed to payment of the 12 barrels of beer 8 Argents and 13 Groschen,s the money was delivered to the village headman, apology occurred, and concerning this the village headman was properly punished concerning his disobedience to the manorial court's command. Further the village headman complains against Goerge Wagner to admit, concerning debt, he disobediently remained away, and when he immediately sent after him with an elder, he did not come. Reus R.S.Ed.Et: he had sent the request that he would have patience with him, for he had to do the shearing; the village elder gives testimony, that he warned him to report, he had said, he would indeed come, it would probably be sent. He owes the village headman 3 Goerliz Marks, shall provide pledge for it, to pay it the next day.
+
+Translation to Early Modern Bohemian German:
+Auf Grundtmans Klage antwortett der Scholtz, das er gestehe, das der grundtman schelmisch hinter seinen Rücken im Ambt geklagt, hierauff Grundtman die Vnwarheit dargethan, Vndt denselben Zalung der 12 fessell Bier 8 Arg. Vndt 13 g. auferlegt worden. Ist das geldt dem scholzen Zugesteltt, Abbitt erfolgtt, Vndt der Scholz hierumb weg. seines Vngehorsambs auf den Ambt befehl gebührlich gestrafft worden. Ferners Klagt der Scholz Vber Görge wagnern Zu gestehen, wegen schuldt, Ist vngehorsamblich außblieben, Vndt als er gleich mit eim Eltesten nach ihm geschickt, sey er nicht kommen. Reus R.s.ed.et: habe bitten lassen, er wolle sich mit ihm gedulden, dan er scheren muessen, der Elteste sagt auß, das er ihn ermahnet Zuegestehen, hette er gesagt, Er wolle wol komen, es würde sich wol schicken. Er seye dem Scholtzen 3 Görlizsche M. schuldig, solls Verbürgen, den nehistem tag. zu Zahlen.
+
+
+Example 4
+English:
+Hans Nicht von Mildenau, since he got into great disunity with his brother, and accused him of something which he could not prove, for this reason he is taken into imprisonment and released on pledges, as follows, that from now on he shall live with his brother peacefully and shall sell his farm between now and St Bartholomew's, on pain of 20 Schocks, for which are pledges Hans Limbs the Younger from Mildenau, Georg Neuman from Mildenau, signed 20 May 1590
+
+Translation to Early Modern Bohemian German:
+Hans Nicht Von Mildenaw, demnach er mit seiner Brudern Christoffen in grosse Vneinigkait gerathen, vnd in etwas bezüchtigt welcher er nit erweisen können, Ist der wegen gefenglich eingezogen vnd zue Pürgen Außgeben, dergestalt, das fort hin mit seinem brudern friedlich leben, Vnd sein guett Zwischen dato vnd Bartholomej Verkauffen sol, bey d. Peen 20 sß darfür Purgen, hans Limbs d. Jünge von Mildenau George Neuman von Mildenau Singatum den 20 May Ao. 90
+
+
+Example 5
+English:
+The magistrate complains that Joachim Jacobiz uttered speech, that he brought the wheel with which Christof Jeschke was wheeled on account of his evil deed itself into the town of Friedland, and made beer taps and furs out of it and thereby made use of all sorts of magic, however this is not true, he asks Jacobiz to provide evidence, and then insofar as Jacobiz is not able to demonstrate this, as he will never be able to do, he will lose everything of body and life and what God has granted him under this manor, asks for protection and help from the manorial court and also just evidence.
+
+Translation to Early Modern Bohemian German:
+Richter Sagett Vnd clagett, dz Joachim Jacobiz ein rede Von Ihme ausbracht hette, dz er dz redt damitt Christof Jeschke weg. seiner Vbelthat gerädert selbst in die Stadt Friedtland bracht Vnd getragen, bier Zapfen, Polzen draus machen Vnd allerley Zauberey damit gebraucht, dem wer aber nicht also, bittett Jacobiz. beweiß aufzuerlegen, wie er dan wofern Jacobiz solches erweißen würde, wie es nimmermehr geschehen könte, er alles leib vnd leben Vnd was Ihme gott Vnter dieser herrschafft gescheret, Verlustig sein wolte, bittett Vmb Ambtes schuz Vnd hulffe auch rechtermeßigen beweiß.
+
+
+Example 6
+English:
+Christoff Doerig, butcher in Friedland, has vowed to pay out to the unmarried lady Maria Wurissen 5 Talers on Whitsun and on the following St John's Day again 5 Talers, so that he thus contents her concerning her debt, signed 27 Apr 1610.
+
+Translation to Early Modern Bohemian German:
+Christoff dörig, Fleischer zu Friedlandt, hat Angleobt, Jungfrawen Marien Wurißen, Auff Pfingsten 5 Thaler vnd Auff volgende Johannis wiederumb 5 thaler, Zuß zuzahlen, damit Er sie wegen Ihrer schuldt also Contentire, Signat. den 27 Aprilis Ao. p. 1610.
+
+
+Example 7
+English:
+Honourable and well-renowned lord secretary, especially good patron and friend, in addition to wishing from God Almighty all blessed well-being, and pleading my friendly service, I should not hide from the latter, how last Saturday, just as I was on the field not far behind my courtyard, the messenger from my gracious lord his grace's manorial court of Friedlandt at that time came into my courtyard and stepped up to my chamber-people, and spoke to them and said, he was bringing a patent from the manorial court of Friedlandt and asked the latter further, whether I or the squire were at home, to which the chamber-person gave him in answer, the squire had just gone out the gate behind the courtyard, but the messenger did not at all want to wait, but rather said, the church-clerk had met him beside the Zittaw. Neißbreck, he would probably report it to the squire what kind of a patent I was bringing, which I learned from the chamber-people, as if the church-clerk was supposed to have copied it down for information. When I asked the clerk concerning this, to report to me concerning the patent, the clerk gave me in answer, the messenger had encountered him, as reported, beside the Zittisch Neiß Brecken, but because the poor old clerk had not had his spectacles with him, therefore without them had had not been able to read through the patent, and had spoken further to the messenger, he should indeed go to the squire in the court and show the patent, and also when my boy went to the messenger in my tavern in Vllerstorff and said to him, my squire is now at home, bring him round the patent, the messenger thereupon said, he did not have the time, he had to depart, and however excused himself, as reported, with the clerk. Now since the messenger was so very oppositional in running away without having completed his task, I ask in a friendly way, that the latter not be left unspoken-to about this, and that I be sent an unburdened written report of this patent which is being carried around, according to which I and my serfs can orient ourselves obediently to its contents, so that it will not be thought of me that I ignored it in a oppositional way, dated Vllerstorff 22 May 1618.
+
+Translation to Early Modern Bohemian German:
+Ehrnuester Vndt wohlebenambtter h. Secretarius, besonderß gutter gönner Vndt freundt, Nebens wünschung von gott dem allmechtig. aller sehlig. wolfarth vndt erbittung meiner freundlich. dienst, Soll dem selben ich nicht Perg., wied. am Negst. Sonnabendt, gleich als ich nicht fern Hinder Meinem hoffe auffm felde gewesen, der botte, auß Meines gnedig. herrn S. g. Ampt Friedlandt, dazumahl in mein hoff Kommen Vndt bey meinen Zimmerleutt, zu getrett. zu ihnen gesproch. vndt gesagt, Er brechte ein patent außm Ampt friedlandt Vndt dieselben weiter gefragtet, ob, Ich, od., d. Junckehr daheimen were, welchs ihm die Zimmerleute zur andtwort geb., d. Junckehr sey aller Erst Zum thor hindern hoff gang., der botte Aber gar nichts vorwartt. wollen, sond.n gesagt, der Kirchschreyber sey ihme bey d. Zittawisch. Neißbreck. begegnet der wirdts dem Junckehr wol angezeig., was ich vor ein Patent bracht, welchs ich von den Zimerleutt. verstand. als solte es d. Kirchschreiber Zur Nachrichtung abgeschrieb. haben. da ich den schreiber hierumb gefraget, mich weg. des patents zu bericht., giebet mir d. schreyber zur anttwort, der botte sey ihm wie obgemelt, bey d. Zittisch. Neiß brecken begegnet weil aber d. Arme Alte schreiber sein Occularium nicht bey ihm gehabt, so hat er auch nicht ohn desselb., dz patent nicht Vberleß. mög., Vndt den bott. ferner angeredet, er solte Ja Zum Junckehrn in hoff geh. Vndt dz patent Zeig., Vndt als eauch mein Junge Zu dem botten in mein Kretschem Zu Vllerstorff Kommen Vndt zu ihme gesagt, Mein Junckehr ist izo daheimen bringet ihm dz patent Rund, hat d. botte hierauf gesagt, er hette nicht d. weil er muste fortt, vndt sich aber, wei gemelt, mit dem schreiber entschuldiget, weil dan d. botte so gar vorsezlich vnuorrichter sach., fortgelauff., bitte ich freundlich, denselb. d.entweg. nicht vnangeredet zu lassen. p. Mich aber solch. Vmbtragend. patents, Vnbeschweret schriefftlich. berichts mit zeig.n zu vberschick., hiernach Ich sampt Meinen Vnterthanen gehorsambst Inhalts Zu erseh., damit mir solchs nicht zu gemeßen, als hette ichs vorsezlich. weise hindan gesezt, dat: Vllerstorff den 22 May Ao p 1618. p.
+
+
+Example 8
+English:
+The von Maxes bring forward, how a few weeks ago the noble, stern, and honourable George von Maxem in Rückersdorff died, all his bequeathable manor of farms, cash money, treasures and loaned-out debts as his brothers George von Maxen the elder and Jacob George the Younger and Christoff the Younger, as the dead man's brothers and children inseparably.
+
+Translation to Early Modern Bohemian German:
+Die Vonn Maxen bringen Vor, wie vor wenig Wochen der Edle, Gestrenge, Vnd Ernueheste George Von Maxem Züe Rückersdorff Todes Vorblichen, hette alle seine Vorlaßenschafft an guttern, bahren geldern Cleinodien, Vnd ausgliehenen schüldenn als seine brüdere George V. Maxen der Elter Vnd Jacob George der Junger Vnd Christoff der Junger, als des Vorstorbenen brüdere, Vnd Kinder Vngesonderte.
+
+
+Example 9
+English:
+On today's date 17 Dec 1609 Jacob Weisse in Priedlanz, along with his father Christof Weissen, also the current village headman Hans Hartig there, appeared in the manorial court here, obediently reporting to the manorial court, that since 2 years ago he married the daughter of the dead Christof Leubner there, who brought him almost 500 Schocks, therefore his beloved father agreed to help him with 200 Schocks in return, which he has now fully received, and used for the purchasing of the farm he is currently occupying, and hereby declares free and released of what he has received, although without harming his future proper inheritance, for which reason the above-mentioned Christof Waise, as Jacob Weis's father, asks that this be registered in the manorial court and that he be issued with a written certificate concerning it, the village headman of Priedlanz can impart good knowledge of this, which could not therefore be refused him but rather this certificate was issued to him under my hand, Actum Friedland castle 17 Dec 1609.
+
+Translation to Early Modern Bohemian German:
+Heute dato den 17 Decemb. Ao. 1609 ist Jacob Weiße Zu Priedlanz neben seinem Vater Christof Weißen auch itzigen Scholzen hansen hartig daselbsten im Ambt alhier erschienen, Ambt gehorsamblichen berichtendt, demnach er vor Zwey Jahren Christof Leubners seligen Tochter daselbsten eine Waise geheiratet, welche ihme fast in die fünfHundert sß. Zubracht, Als hette sein lieber vater ihme hierkegen mit Zwey hundert sß. zuhelffen vorwilliget, so er auch nunmehr volstendig entpfangen, vnd zu erkauffung seines itz inhabenden guts angewendet, thuen solches entpfangs doch vnbeschadet seines Künfftigen gebührenden Erbfahls hiermit Ledig und loß sagende, derowegen obig gedachter Christof Waise, als Jacob Weisen Vater gebeten, dieses im Ambt zu Registriren vnd ihme deßen schrifftlichen schein weil hierümb der Schulthes zu Priedlanz gutte wissenschafft mitzutheilen, welches ich ihme also nicht vorwiedern Sondern ihme diese vnter meiner handtschrifft schein wieder fahren laßen Actum aufm Schlos Friedland den.17. Decemb: Ao. 1609.
+
+
+Example 10
+English:
+Since he lost a good dog belonging to the lord his grace which he was supposed to rear, has vowed and named the following persons as pledges, that he will return this dog to the lord his grace within 4 days or go into gaol on pain of 50 Schocks, pledges are Hans Schubart court tailor, Hans Christof and Michel Blumberg from Friedland, signed 9 Apr 1586
+
+Translation to Early Modern Bohemian German:
+Demnach er dem herrn Christoffen S. G: Zu Reichenberg ainen gutten hund welchen er auf Ziehen sollen verlohren, hat angelobt vnd die hernach beschriebne Personen Zu Pürgen gesatzt das er solchen hund inerhalb 4. tag. dem herrn S. G: wieder einstellen oder in gefenckliche hafft eingehen soll vnd will, bey verlust 50 sßg darfur sint Pürgen hans Schubart hofschneider hans Christoff vnd Michel blumberg Zu fridlandt Sig: den 9 Aprilis A.o 86.
+
+
+Example 11
+English:
+Since these two, on account of neglectfulness in taking in the moneys which several debtors owe in the guardianship over Hans Strack's orphans, were taken into imprisonment, they were released from it as follows, that in the next days they speak to the debtors, and if the latter do not render payment, they shall seek the proper help of the manorial court, also what they are outstanding in their own persons and cannot prove that other people owe, according to the accounts-hearing-List they shall deliver into the manorial court within a month's period and achieve rightness, for which they named pledges, Christoff Augsten for him Christoff Blumbergen and Christoff Herbigen both in Raspenaw, Matz Effenbergk for him Hans Lindnern village headman in Mildenaich. And Marten Lucassen in Mildenaw. Dates 15 Jul 1605.
+
+Translation to Early Modern Bohemian German:
+Demnach diese beide wegen nachlessigkeit in einnehmung der gelder so ihnen ezliche Schuldiger in Vormundschafft hans Strackens waisen schuldig, Zu gefengniß eingezog. Seindt sie derselben solcher gestalt entledigt, das sie nehisten tage dj Schuldiger besprechen, Vndt so dieselben nit Zahlen richten, dj gebuhrende Ambtshülffe suchen sollen, Auch was sie für ihre Person selbst aus stendig, Vndt nit erweisen können, dz es andere leütt schuldig weren, Vermöge der Abraitungs Vorzaichnuß ins Ampt inner Monats Zeit einstellen Vndt richtigkeit machen, hirfür sie Burgen gesezt, Christoff Augsten fur sich Christoff Blumbergen Vndt Christoff herbigen baide Zue Raspenaw, Matz Effenbergk fur sich hans lindnern Schultessen im Mildenaich. Vndt Marten lucassen Zu Mildenaw. Actum den 15 Julij Ao 1605.
+
+
+Example 12
+English:
+Joerge Kluess, boardcutter. Since he housed disloyally in the board-mill and some time past made coffins and other things for people from the lord his grace's boards, which was not proper for him to do, for which reason he was taken into imprisonment and released again that when he is summoned he present himself, pledges for this are Hanss Schuetze and Valten Scholtze in Friedlandt, signed 7 Feb 1587.
+
+Translation to Early Modern Bohemian German:
+Demnach er in der bretmühlen vntreulich gehaußet vnnd von des herrn S. G. brettern den leutten ain Zeit hero die sarge vnnd andere sachen gemachet, welches ihme nit gebühret, darumb er gefengliche eingezogen, vnd wiederumb erledigt, dz er sich wan er gefordert wirt, gestelle, Pürgen darfür sint hanß Schütze vnnd valten scholtze Zu Fridtlandt, Signat: den 7 februarij: Ao 87.
+
+
+Example 13
+English:
+Since Martin Sigmund in Bullendorf ignored the highly worthy sacrament and kept himself away from it from a long time, also besides, as a blind person, he had himself led around in the country here and there to ask for alms, for this reason he was taken into imprisonment and released again on pledges, that henceforth he shall prepare himself for the lord's table or sacrament and begin a godly life, likewise when and as often as he is summoned he shall report back before the lord his grace and behave with all obedience, pledges are Christof Krause and Nicol Wagenknecht both in Bullendorf, signed 12 Jan 1598.
+
+Translation to Early Modern Bohemian German:
+Demnach Marttin Sigmundt Zue Bullendorff, die hochwürdigen Sacrament verachet vnd sich eine Lange Zeit derselben entphlog., Auch beneben sich als ainan blinden Menschen Im Landt hin Vnd Wider herumb das allmosen Zu erbietten führen lassen, derentweg. er gefenglich. eingezog. vnd Zu bürg. wied. herauß geben, das er hinfüro sich zu dem Tische des herrn od. Sacremanet bereiten vnd ain Gottseliges leben anfahen soll, desgleich. wan vnd so oft er gefodert, sich vorn herrn S. G. zu gestellen, vnd alles gehorsambs verhalten, sindt Pÿrg. Christof Krause vnd Nicol Wagenknecht baide zue Bullendorf, Signat: den 12 Januarij Ao 98.
+
+
+Example 14
+English:
+Since he has remained indebted to Hans Vlman there, for 50 Schocks lent money dating back 8 years, and not only not paid Hanß Vlman, but also because the payment cannot take place right now without Gregor Neüman's damage, he desired to be certain and secured of the same for the future, therefore on today's date they both drew up accounts before the manorial court, that Gregor Neüman owes to Hanß Vlman today with principle and interest payments in cash 66 Schocks, which he shall and will pay and deliver to his creditor at the next coming Jahrding of the year 1606, together with this year's interest, unless this is waived out of goodwill, concerning which he named pledges for insuring this, Hanß Richter village headman in Schönewalda, dated 24 May 1605.
+
+Translation to Early Modern Bohemian German:
+Demnach er hans Vlman daselbest, Von 8 Jahren hero 50 sß furgeliehen geldt, Schuldig Vorblieben Vnd hanß Vlman nit Allein bezahlt sondern Auch Weiln die Zahlung An Jtzo Ohne Gregor Neümans Schaden nit geschehen konnen, Er derselben Auff künfftig gewieß Vnd Zue sichtert Zue sein begehret, Als haben sie sich bayde heutte Acto Vorm Ampt berechnet das Gregor Neüman dem hanß Vlman Auf heutt mit haupt summa Vnd Zinsen baar Schuldig 66 sß, die er seinem gläubiger Auffs negst künfftige Jahr dingen deß 1606 Jahres sampt diß Jahres Zinsen Wo er Ihme die Auß guettem Willen mit nach lassen wolte, Ab zue legen vnd einzustellen, schuldig sein soll Vnd Will hierüber hat er Zue Versicherung Pürgen gesetzet hanß Richter Schulteß Zu Schönewalda, Actum den 24 May Ao 1605.
+
+
+Example 15
+English:
+Christoff Ansorge, who has been a malter for 13 years, declares: when the carters use to unload wheat and it was measured out, they had this custom, that when on the last bushels a small measure or two was left over, they used to give it as an honorarium to the malt-lords, who afterwards cut it together, and when they had collected a quarters or two, either divided it among themselves or cut it in the heap and assessed it in money; this he had often observed.
+
+Translation to Early Modern Bohemian German:
+Christoff Ansorge, so 13 ihar ein Melter gewesen saget aus, Wan die Fuhrleute pflegten abzuladen, Vnd denselbe abgemeßen wurde, hielten sie dießer gebrauch, wan ahn lezten schll ettwan ein Meßel oder Zwej Vbrig, pflegten sie daßelbe dem Maltzhern zuuorehren, welche nachmals daßelbe zusammen schnitten, vnd so sie ein viertel, oder zwej gesamblet daßelbe entweder Vntter sich zuteilen oder auff den hauffen zuschnitten Vnd ahn ein geldt zuschlagen, dießes hette ehr vielmals also gesehen.
+
+
+Example 16
+English:
+Since Mathess Gutbier, smith in Heinersdorf, defamed Michel Schwerdtner as a villain and a fraud in the village court in Heinersdorf in front of the jurymen's bench, and also laid hands on Schwerdtnern and beat him bloody, for which reason he was taken into imprisonment and today 27 Sep released from prison as follows, that he shall live peacefully with Michel Schwertner on paths and stairs, for which reason he named Paul Muehlessen in Heinersdorf as a pledge, that if he attacks Schwertner in the least the pledge will pay 10 Schocks fine without any delay, likewise Michel Schwernter has to live peacefully, named Gregor Berger as a pledge on pain of the above fine, signed 27 Sep 1588
+
+Translation to Early Modern Bohemian German:
+Demnach Matheß gutbier Schmidt zu Hennerßdorf Michel schwerdtnern in den gerichten zue heinerßdorff für der Schöppenbanck für einen schlemen vnd Schinder gescholten auch an schwerdtnern hand geleget, vnd blutrunstig geschlagen, darumb gefenglichen eingezogen vnd haute den 27. Septembris der gefengnus entlediget, dergestaldt daß er mit Michel schwerdtnern, zue wegen vnd stege friedlich lebe dernthalben Paul Mühlessen zue heinerßdorff zum burgen gesazta da er sich an schwerdtnern es sei mit dem geringsten angriefen der Burge ohne allem vorzüg 10 sß Zur straffe Erlege ingleichem Hat Michel schwerdtner früedlich zueleben Gregor Bergern zue einem Purgen by obgemeldeter Peen eingesazts Signatum den 27. Septembris Ao p 88.
+
+
+Example 17
+English:
+The Oberweigsdorf peasants were summoned into the manorial court for this reason, because they complained grievously to the lord his grace concerning the lady countess her grace and her officials, how they were burdened with unbearable demesne-services, ask for mildening. Lord Jochemb Junge brings forward, they were obliged to do as much carting and such as the Priedlanzers and Niederweigsdorffers, but they had done much less than they had, since Martinmas they had done no more than 6 cartings, but the Priedlanzers had done three times more. The peasants give testimony, with the winter-carting they were well satisfied but in summertime they were much too greatly burdened.
+
+Translation to Early Modern Bohemian German:
+Oberweigsdorffer Pauren seind sieser Vrsachen halben ins Ambt erfordert worden, weil sie sich Vber die Fraw Gräfin Ihr Gn: Vnd dero Ambt leute sich bej dem hern S. gn. Clagende beschweret, wie sie mit Vnertreglichen hofediensten beleget wurden, bitten Vmb linderung. H. Jochemb Junge bringet Vor, sie wehren souiel fiehren, Vnd das jenige Zuthun schuldig als die Priedlanzer Vnd Niederweigßdorffer, sie hetten aber Viel weniger gethan, als dieselb., hette seidt Martinij Vber.6. Fuhren nicht gethan, die Priedlänzer aber hetten drej mahl, mehr gethan, die Paüren referiren, Mit dem windter fuhren wehren sie wohl Züefrieden, aber im Sommer wurden sie gahr zu sehr beschweret.
+
+
+Example 18
+English:
+Balthasar Kayßer, from Silesia, from Naumburg, abducted Catharina, daughter of Christoph Gertner, peasant, by night, and let himself be wedded with her in Silesia, which two persons have now come back and brought with them a child to Bernßdorff, the man wants to put himself into serfdom and take on a smallholding, if he can obtain mercy from the gracious manorial authority, which then occurred, and the said Gerttner as father-in-law, entered into pledgeship for him at 30 Schocks fine, that he will remain loyal and this holy Easter tide will and shall take on the Catholic religion.
+
+Translation to Early Modern Bohemian German:
+Balthasar Kayßer, auß Schleßien, von der Naumburg, hatt deß Christoph Gertners Pawern Tochter Catharina, Nächtlicher weile Entfuehrt, Vnnd sich in Schleßien mit Ihr Copuliren Laßen, Welche beede Perßonen, nun wieder Kommen, Vnnd Ein Kind mit Vf bernßdorff gebracht, der Mann wiel sich Vnterthenig begeben, Vnnd Einen Garten annehmben, wann Er von Gn.: Obriegkeit, Gnad Erlangen möchte, Welches dann geschehen, Vnnd hat besagter Gerttner alß Schwehr vatt. sich Vor ihn auf. 30 sßo. straff in bürgschafft, Ein gelassen, daß Er Trew Verbleiben, Vnnd dieße H. Österliche Zeit die Catholische Religion annehmben wiel Vnd soll
+
+
+Example 19
+English:
+Since they let themselves be heard firing guns, on several occasions in Girlachshaim in the riverside-meadows, and would not yield at all to the warnings of the squire, for this reason they were taken into imprisonment and released again on pledges, as follows, and thus, that insofar as in future one or the other of them is caught with a gun in fields, bushes or also in other hamlets, whether inside the country or alternatively in another village, he shall pay and lose as a penalty to the manor his grace 10 Schocks, pledges are Hans Reinelt the elder and Paul Hafft from Bernsdorff, signed 25 Jun 1601.
+
+Translation to Early Modern Bohemian German:
+Demnach sie sich mit büchßen schüßen, Zue etlichen Mahlen, Zue Girlachshaim in d. Awen hören laßen, Vnd vf des Junkern Anmahnen nichts geben wollen, Alls sint sie derentweg., gefenglich eingeZogen vnd Zue Pürg. wied. herauß geben Worden, d.o gestaldt Vnd Also, dafern sich hinfuro Weitter, Ainer od. der And., mit Ainem Rohr, in felden, Püschen, od. Auch inAnd.n flecken, Es sey Außer des landes Od. aber Auf Ainem And.n dorffe, begreiffen laßen, sol d. herrschafft S. G. 10 sß erleg. Vnd Zue Peen Vorlustig sein, sint Pürg., hans Reinelt d. Alte Vnd Paul hafft von Bernsdorff, Signat: den 25 Juny A p 1601.
+
+
+Example 20
+English:
+Since and after he lived in fornication with Anna, Mathes Apelt's sister, thereby got her pregnant and this has been proven, for which reason he was taken into imprisonment and released again on pledges, as follows, that he shall with his very own body and person, clear a piece, whether it be in the Hegenwaldt demesne-farm or wherever else it might be, whenever he shall be instructed to do so, also at whatever time it might be, and complete this as a punishment; also that he shall reckon up with the church 3 Sundays in a row before the altar concerning the penance, also because at every Jahrding he has been instructed to get married, but he has never followed this instruction, therefore in superfluity he is further commanded that he shall get married without delay and send himself into a different and Christian life, which he promised and said that he would live according to, and always firmly hold it, there entered into pledgeship Adam Grossman in Friedland, signed 9 Sep 1595.
+
+Translation to Early Modern Bohemian German:
+Demnach vnd Allß er mit Anna, Mathes Apelts schwester in Vnzucht gelebet, darüber sie geschwengert Vnd ein solche geZeuget, darumben er gefenglich. Eingezog. Vnd Zu Pürg. wieder herauß geben Worden, dergestalt, daß er mit seinem selbst Aignem leibe Vnd Person Ein stuck, Es sej aufm forberg hegenwaldt od. wo es Wölle, Wan es ihm Angewisen wirt, Auch Zu welcher Zeit es sey, Roden Vnd Zur straf Volbring. soll Vnd Wiell, Auch sich mit der Kirchen 3 Sontage nach einander Vorm Altar, der Paenitenz halber Abfinden, Weiln ihm Auch alle Jahrding Aufferlegt worden, sich zuuorheurathen, demselben Aber nit Nachkommen, Alß ist ihme Zum Vberflus weiter befohlen worden, daß er sich Vnstumblich vorheurathen Vnd in ein Ander Christlich leben schicken soll, Welchem nach Zu leben, er Ver sprochen Vnd Zugesagt, Solches Alle auch stet Vest Zu halten, hat sich in Purgschaft eingelassen Adam großman Zue Fridlandt, Sig: den 9 Septemb. Ao. 95 p
+
+
+Example 21
+English:
+Since they quarreled in the village court with one another, and attacked one another with defamatory words, for this reason they were taken into fitting punishment, and held in imprisonment in the tower, also released again on pledges, that when they are summoned back they are to report into the manorial court, for which pledge for Mertten Weisen is Jacob Aichle, for Lincken is Lortz Horn in Hermß Dorff signed 28 January 1605.
+
+Translation to Early Modern Bohemian German:
+Demnach sie sich in den Gerichten, mit Ain Ander geZancket, Vnd einer den Ander, mit Ehrrürigen Worten Angegrieffen, seint sie deßwegen im gebührliche straff gezogen, Vnd mit dem thum gefenglichen gehalten, Auch Zu Pürgen wieder herauß gegeben worden, das wan sie Wieder gefodert sich ins Ampt zu gestellen, dafur Pürge von mertten Weisen Jacob Aichler vor lincken lortz horn zue hermß dorff Signatum den 28 January Ao 1605
+
+
+Example 22
+English:
+Joerge Neuman in Cunnersdorf set pledges that he will sell his house and smallholding within 4 weeks, and betake himself under another manor, on pain of 20 Schocks for which is pledge Christoff Ruedeler from Cunnersdorf, dated in the manorial court 26 Mar 1605.
+
+Translation to Early Modern Bohemian German:
+örge Neuman Zue Cunnersdorff Hat bürgen gesatzet, das er Innerhalb Vier wochen, sein hauß Vnd gartten VorKauffen Will, Vnd sich Vnter Ander schafft begeben, bey der Peen 20 schock, dafür Pürge christoff Rüdel von Cunnersdorff, Actum Im Ampt den 26 Martij Anno 1605
+
+
+Example 23
+English:
+Paul Sembdner from Bernsdorf, after he lost several balls of flax, and asked the whole community that he be given it back, but named no-one, concerning this Fabian Scheler came before the lord domain-captain and complained that Paul Sembdner wanted to make him into the guilty one, which however he could not prove, Fabian therefore vowed before the lord domain-captain, that when the pastor, who is ill, gets better again, they would present themselves and apologize, on pain of 10 Schocks, for which are pledges for Paul Sembdner, Matthess Kuntze, Paul Druemmel and Barttel Scheler, and for Fabian Scheler, Paul Huebner, Martin Boehme and Michel Scheffer, Actum 4 Jan 1589
+
+Translation to Early Modern Bohemian German:
+Paul sembdner von Bernßdorff, demnach er etliche kloben flachs verlohren, vnd die ganze gemaine gebethen, man solde es ihme widergeben, aber Keiner namhafftig gemacht, vber das ist Fabian scheler vorn herrn hauptman Kommen, vnd sich beklagt Paul sembdner wolde ihn zu einem Tehter machen, welcher er aber nit erweißen Können, Fabian derwegen fürn herrn Hauptman angelobet, das sie wan der Pfarrer, welcher Kranck, wieder frische wurde sich leide gestellen sollen, bey der Peen 10 sß darfür Purge für Paul sembdner, Mattheß Kuntze, Paul drümmel, barttel scheler, für fabian scheler, Paul hübner, Martin böhme, vnd Michael scheffer, Actum den 4 Januarij Ao 89
+
+
+Example 24
+English:
+Mertten Haman in Ringenhain, Paul Nauman the Younger in Ringenhain, Christoff Ulrich in Hans Richter's house in Friedland, Michel Scherer in Grosche Michel's house, all quarrel-lumps, 6 are summoned into the village court.
+
+Translation to Early Modern Bohemian German:
+Mertten haman Zu Ringenhain Paul Nauman der Junge zu Ringenhain Christoff vlrich in hans Richters hauße. zu friedlandt Michel Scherer in Grosche Michels hauße. alle haderlumpen 6 Seindt in die gerichte erfordert.
+
+
+Example 25
+English:
+The demesne-farm foreman in the castle-demesne-farm complains against the 3 communities, namely Cunnersdorf, Dittersbach and Ringenhain, that they do not carry out the manure-carting fittingly, hardly any of them come, they send small boys that hardly load a half share, and cannot unload. It is commanded that they shall all come together, shall send capable servants, each send a manure-oader with them, and the demesne-farm foreman shall report the absent and incapable ones. Fine set at 2 Schocks per person. It is ordained that the lists shall be made immediately by the village headman.
+
+Translation to Early Modern Bohemian German:
+Klagt vber dj 3 gemainden, als Cunnerßdorff, dittersbach, Vndt Ringenahin, dz diselben d. Mist fuhr nit nach gebühr vorrichten, Kommen Kaum entzlicht, schicken Kleine Jungen die Kaum das halbe theil laden, Vndt nit abschlahen können. Ist befohlen, das sie alle mitt einander kommen, tauglich gesindt schicken, Jeder ein Mistlader mitschicken, der Vogt soll dj abwesenden Vndt Vntuchtig. anzeig. Ist straff gesezt, Jder 2 sß. Ist geordnett, das dj verzeichnusse sollen Ehister tages von Scholzen gefertigt.
+
+
+Example 26
+English:
+Since along with Michel Apelten, he loaded a barrel of beer from Jacob Richtern in Friedlandt and this remained unpaid for until now, therefore he was sentenced by the manorial court, that on next coming Tuesday he shall pay the half share for this namely 1 Schock 42 Groschens into the manorial court, for which he named as pledge, Christof Ridigern in Neustadt, dated 30 Sep 1606.
+
+Translation to Early Modern Bohemian German:
+Demnach er benebens Michel Apelten, ein faß Pier Uon Jacob Richtern Zue friedlandt geladen Vndt solches bißhero Vnbezahlet bliebe, Als ist Ihme Vom Ampt Zu erkandt, dz er Auf Negst künfftigen dienstag den halben theil dafur Als 1 sß 42 g.: Ins Ampt erleg. soll, hierüber er zu bürgen gesatzt Christof Ridigern Auff der Neustadt, Actum den 30 7bris Ao 1606.
+
+
+Example 27
+English:
+George Schultze in Luesdorf was complained against by Christoff the field-ward, that counter to the Jahr article, he does not tie up his dog, but rather lets it run altogether loose, for which reason then, because he admitted this, he was taken into imprisonment, but released from it again on pledgeship, upon the earliest summoning by the lord his grace to report back again, pledges Christoff Menzell, and Hans Rößell both in Lüesdorf. The punishment is reserved. Signed 6 June 1610.
+
+Translation to Early Modern Bohemian German:
+George Schultze Zue luesdorf ist Von Christoff den Schuzen angeclaget worden, wie ehr den ihars Artcull Zuwied. seinem Hundt nicht anlegte, sondern ganz lohß lauf.n ließe, Deroweg. ehr dan, weill ehr deßen gestendig gefenglich. eingezog.n, deßen aber auf burgschafft hinweiderumb entlediget word., sich auf des hern S. gn: auf ehestes erfordern Hinweiderumb Zugestellen, bürge, Christoff Menzell, Vnd hans Rößell beide Züe lüesdorf. die strafe wirdt Vorbehalt. Sig.m den 6. Junij Ao 610.
+
+
+Example 28
+English:
+George Schiler in Bernsdorf named Nicol Beiern in Schonewalda as pledge, that he will report into the manorial court next Saturday and afterwards when he is instructed to do so to render himself to Wunschendorff, and to endure and put up with what he shall be inflicted with by the law. In the case that he shall flee, the pledge shall render the expenses. So that one might have knowledge of the dealings in Wunschendorff the following persons were examined for information. Melcher Simon in Bernsdorff gives testimony, he was there before one came from Lauban. He was sitting in the house, was drinking with Melchior Hafft, Hans Hafft, Christof Simon, afterwards paid and went into the parlour, the other neighbours asked whether they wanted to walk with them home, told them to sit down they would soon pay and go with them, Hans Ansorge drew out a Schreckenberger coin and gave it to Hans Scheffern to exchange, Scheffer said it was not worth any 4 Kreuzer, Georg Behmes son began to shout how he was good, then he would exchange it, and gave it across the other table, methes drausche said it was a schreckenberger thereupon behme’s son exchanged it. Thereupon scheffer said, I would still not give more than 4 kreizer thereupon behme began saying, because it is not good, then give me my money back, there I have a groschen.
+
+Translation to Early Modern Bohemian German:
+George Schiler Zu Bernsdorf hatt Nicol Beiern Zu Schonewalda zu burgen gesetz sich auf nigsten Sonnabend ins ambt gestellen Vnd nachmals wan es ihm aufferleget nach Wunschendorff Zugestehen, vnd was ihm do mit recht wird Zuerkant werden dulden Vnd leiden. Im fahl do ehr flüchtig sol der bürge die Vncosten richten. das ehr sich nach Wunschendorff wan ehr gefordert gestellt hatt ehr bürgen gesatz Darmit man wegen des handels Zu Wunschendorff wiessenschafft haben möchte sind pro informatione nach folgende personen examiniret worden. Melcher Simon Zu Bernsdorff saget aus wer darbey gewesen Ehe man vom lauban kommen. wer ehr ins haus gesessen, mit Melchior hafft hans hafft Christof Simon getruncken nachmals abgezalt vnd in die stuben gegangen die andern nachbarn gefraget ob sie woltten mit ihnen Zu haus gehen sie heissen nieder sitzen woltten bald Zalen vnd mitt gehen hatt hans Ansorge ain schreckenberger heraus gezogen vnd hans Scheffern zu wechsel gegeben Scheffer gesagt ehr gilter keinen 4 kreuzer hett Georg Behmes sohn angefang. wie ehr gutt were so woltte ehr den selben wechseln Vnd Vber den andern tisch gegeben zu schreien, hatt Methes drausche gesagt es wer ein gutter schreckenberger darauf Behmes sohn gewechseltt. darauf Scheffer gesagt, ich gebe noch nicht mehre den 4 kreizer darauf Behme angefang. weil ehs nit gut ist so gebet mir mein geld wieder da habe ihn an ein groschen.
+
+
+Example 29
+English:
+Georg Tomas, village headman in Merkersdorf, vowed to satisfy Joachim Mild's wife/widow within four weeks, Friedland 22 Sep 1585
+
+Translation to Early Modern Bohemian German:
+Georg Tomas schultes Zu Merckerßdorff hat angelobet die Joachim Mildin iner vier wochen entlichen vnd gewiß Zu befridigen vnd Klagloß Zu machen, Sig: Fridland den 22 Septemb: A.o 85.
+
+
+Example 30
+English:
+Because the two contradict one another, and are in agreement that he shall have the calf so long in usufruct as it was not of utility to him, Schoenfelder shall continue the leasing, but after three years have run out the village headman shall come by another cow for him, so that he may be satisfied, or in place of this cow pay him 7 Schocks money, which he has vowed in the manorial court to do.
+
+Translation to Early Modern Bohemian German:
+Weil die beiden miteinander contrahiret, Vnd einig worden, das ehr die Kalbe so lannge an nuze gebrauchen solle, als sie ihme nicht nuze geweßen, sol der Schönfelder die mietung aushalten, der Scholtes aber sol ihme nanch ablauffung dreier ihare eine andere Kuhe, darmit ehr Zufried. sein Kan, schaffen, oder ihne an stadt solcher Kuhe.7. sso an gelde geben, so ehr im Ambt Zuthun angelobet, Vnd zugesagt.
+
+
+Example 31
+English:
+The half share, namely 22 1/2 Reichstalers the village headman in Haindorff promised to pay it on the soon-approaching Michaelmas of the current year, the other half again on Michaelmas in 1658. Now if the village headman does not pay on the said two deadlines, he is to make claim to the sheep.
+
+Translation to Early Modern Bohemian German:
+Den halben theil, alß 22 1/2 rtl. hat der scholze Zu haindorff Versprochen, solchen auff baldt Kommendt Michaelj in stehenden Jahres Zu bezahlen, die Andere helfte wieder auf Michaelj ao. 1658. Wann nun der Shcolze in obbemelten beeden friestn wied. verhoffen nicht bezahlet werden möchte, hat Er sich an daß Schaf Viehe zu halten.
+
+
+Example 32
+English:
+Since Christoff von Reibniz on today's date was summoned into the Friedland manorial court concerning his paternal circumstances, but during the hearing that was held behaved immodestly, in that he said against Ernsten von Baraw otherwise called Keßell, that he was suspect in these matters, concerning which von Keßell stood up in the hearing, and in the presence of Christoff Friederichen von Schwanzen got very angry about this, therefore this was very much reproved to him von Reibnizin, he apologized to him for this as follows, that he uttered these words out of lack of reflection, did not know anything other than everything that was nice, honourable and good about him Keßeln, with the plea that he will forgive him this, which von Keßell did, and they gave their hands to one another. Dated in the presence of Christoff Friederichen von Schwanz, Christoff Mertten mayor, Hans Somer Richter, Jochemb Jacobizen and Christoff Löchel the schoolmaster, dated on above date 1614.
+
+Translation to Early Modern Bohemian German:
+Demnach Christoff V: Reibniz auff Heute dato wegen seines Väterlichen Züstanden ins Ambt Friedlandt beschieden worden, Ehr aber inn gehaltener Vorhör sich Vnbescheiden Vorhalten, In deme ehr wieder Ernsten Von Baraw sonsten Keßell genandt gesagt, als ob ehr Vordechtig in dießer sachen wehre, daruber der Von Keßell in der Vorhor auffgesanden, Vnnd solches in beysein Christoff Friederichen Von Schwanzen höchlichen geeiffert, Als ist ihme Reibnizin solches Hoch Vorwiesen worden, Hat ihme solches derogesaldt abgebehten, das ihme solch werdt aus Vnbedachtsamb entfahren, wuste Vom Keßeln nichts dan alles lieb, ehr Vnnd guts, mit bit ihme daßelbe Zuuorteihen welches der Von Keßell gethan, einander die Hende geben. Actum in p.sentia Christoff Friederichen Von Schwanz Christoff Mertten Burgermeister, Hans Somer Richters, Jochemb Jacobizen Vnd Christoff löchel des Schulmeisters Actum ut Supra Ao 1614.
+
+
+Example 33
+English:
+Since he was complained against by the guardians of Christoff Simon's orphans, on account of neglectfulness in paying of inheritance-moneys, also otherwise rumoured how he is so totally ruining his farm, therefore after suffering imprisonment punishment, he was told by the manorial court to sell his farm between now and next Easter and fill it with a capable householder, named guarantors that he will comply with this decision obediently, Christoff Ressel the elder in Ruckersdorf and Ressel his brother in Bernsdorf a fiddler, dated Friedlandt 13 Feb 1604.
+
+Translation to Early Modern Bohemian German:
+Demnach er von Christoff Simons Waisenn Vormunden wegen seumnuß mit erlegung der Erbegelder vorkalgt, auch sonst berüchtiget, wie er sein Gutt so gar Vorwusten ist ihme nach erlittener Gefengnis straffe vom Ambt aufferlegt sein Gutt Zwisch. heut Vndt nechstkünftig Ostern Zue vorkauffen, Vndt mit eim tüchtig. wirtt zu besezen, Burgen, solchem Abschiedt gehorsame folge zu thuen, gesezt Christoff Resseln den Eltern Zu Ruckerßdorff, Vnd Resseln seinen Brudern zu Bernßdorff ein fiedler, Actum Friedlandt den 13 Februarij, Ao 1605.
+
+
+Example 34
+English:
+Since Michell Apelt accused his brother's wife of having secretly buried the fruit of her body together with two other women, which he was unable to prove on her, for this reason he was taken into imprisonment and released again on pledges, that he shall present himself in the manorial court at any time he is summoned, on pain of 5 Schocks, for which is pledge Paul Hiebner from Rueckersdorf, signed at the castle, 3 Jul 1605.
+
+Translation to Early Modern Bohemian German:
+Demnach michell Apelt, seines Brudern weib beschuldiget, Alß hette sie ihres leibes frucht heimlicher weise neben Andern Zweyen weibern begraben, welches er auf sie nicht hat beweisen künen, derentwegen er gefenglich eingezogen, Vnd auf Burgen wieder herauß gegeben, das er sich zu Jeder Zeitt wan er gefordert, ins Ampt gestellen soll, Bey der Peen 10 sß, hirfür ist Bürge Paul hiebner Von Rückerßdorff, Signatum aufm Schloß, denn 3 July A: 1605.
+
+
+Example 35
+English:
+Christoff Doring butcher owes Jonas Kleseln 9 B. or 7 Talers, has vowed in the manorial court to sell his house and satisfy him Klesel from the first payments within 4 weeks from today, signed Friedlandt 28 May 1610.
+
+Translation to Early Modern Bohemian German:
+Christoff doring Fleisch. ist Jonas Kleseln schuldig 9 b. oder 7 Tal. Hatt im Ambt abgelobet sein Haus Zuuorkeuff.n, Vnnd ihn Kleselln Von den ersten angelder à dato innerhalb. 4 wochen zubefriedigen, Vnnd zu contentiren, Sig.m Friedlandt den 28 Maij Ao. 1610.
+
+
+Example 36
+English:
+Since Barttel Scheler defamed Joerge Scheffer's daughter there on the commons as a track-sack, but was unable to provide any proof of this, but Scheffer, when he took his daughter's part and complained in the village court concerning this, out of anger threw a small can at Scheler's head so that it bled, they reached agreement with one another in front of the manorial court and named pledges, that they would present themselves next Tuesday, early, and pay the fine that would be imposed on them then in case, pledges for each, Nickell Schnabell, village headman in Bernsdorf, signed 14 May 1605.
+
+Translation to Early Modern Bohemian German:
+Demnach Barttel scheler, Jörge Scheffers Tochter, daselbst in der Awen für ein Trachesaack gescholtt., Aber dessen Keinen beweiß Zue Thuen Vermag, Scheffer Aber, Alß er sich seiner Tochter Angenohmen vnd in Gerichten geClagt, hierüeber Auß Zorn schelern mit eim Tüpffell, Aufm Kopff Budtrünstig geworffen, haben sie sich geg. ein And. furm Ampt Vertrag., Und bürgen gesezet, das sie sich beide, Auff nechst Künfftig. dienstag frü, Wied.umb gestellen Und die straff, so ihnen Alßdan Zue erKandt würde, baar erleg. sollen, bürgen Vor Jeden, Nickell Schnabell, Schulteß Zue Bernsdorf, Signatum, den 14 May Ao 1605. p.
+
+
+Example 37
+English:
+Michl Pezeltt complains against Maz Pfeiffern that they got into conflict over a ridge-boundary, sent clearers to him, that they should clear the ridge-boundary, 9 Orthstalers wages for it; the clearers went away after the ridge-boundary had been cleared. Pezelt desired the third denarius. Pfeiffer wanted to pay 6 Argents. Said in the village tavern he would pay nothing. Pezelt reminded him of the granting, but he did not admit it, hereupon Bezelt said to Pfeiffern, he tear his boundary-stones out. After this they got into speech on the field, screamed at him, defamed him, called him a hunted-away rogue, his teeth had been struck out because of his rogue deeds, he had had to run away like a rogue, this Pfeiffer also said to Görge Schmieden. who declared the same in front of the village court. Also declared this to the neighbours. On Michel Pezeltt's plough was his ploughshare which he lost a year ago, had also on this account sent Christoff Bergman to him and left him free where he had come by his ploughshare. Response of Matz Pfeiffer: that Pezeltt had sent the clearers to him so that Pfeiffer however desired the third share on the boundary-ridge, he would pay the third on it. Pezeltt had initially on the field defamed him as a hunted-away rogue. Admits that he had accused Pezeltt, he had today stolen from the neighbours, admits that he had sent Bargman to Pezeltt and had him asked, but does not know anything to accuse him of. They appeal to the village court's testimony: Scholz gives testimony, Christoff Bargman had declared it: that he was sent by Marks Pfeiffern to Pezelt and had him asked where he got his share. Görge Schmiede witness declared, that Pfeiffer said at his place, Pezeltt had had to move away on account of dispute and dispute cases.
+
+Translation to Early Modern Bohemian German:
+Michl Pezeltt Klagt Vber Maz Pfeiffern dz sie mitteinand. vmb ein Rein strittig, Ihme Röder zugeschickt, dz sie des Rein reumen sollen, dauon 9 orthstaler lohn: die Röder weggang. Nachdem der Rein gereumet. Pezelt den dritten d: begehrt. Pfeiffer 6 Arg. geben wollen. Im Kretschemb gesagt er wolle nichts geben. Pezelt ihn der vorwilligung erinnertt, Er aber nit gestendig, hieruber Bezelt Pfeiffern angeredet, er risse ihm dj Reinsteine auß. Nach diesem sie auffm Acker zu reden kommen, ihn angeschrien, geschmehet, ein vorJagten schalck gehaissen, dj Zeen weren ihm der schalckstucke halben ausgeschlag. Er hette müssen als ein schalck entlauffen, diß hette Pfeiffer auch zu Görge schmieden gesagt. Welchs derselbe fur gericht ausgesagt. Solchs auch zu den Nachbarn gesagt. An Michel Pezeltt pfloge sej sein pflog schaar, welches er vorm Jahre verlohren, hette auch derenthalb. Christoff bergman zu ihme geschickt Vndt frey lassen, wo er zu sein pflug schaar kommen were, R. Matz Pfeiffer. das Pezeltt ihme die Röder zugeschickt damit Pfeiffer aber den dritten theil am Rein begehrt, Es wolle den dritten dazu geben. Pezeltt hette ihn anfengs auffm Acker fur ein VerJagten schalck gescholten. Gestehets das er Pezeltten geziehen, Er hette den Nachbarn an heutte entwerdt Gestehets ich das er Bargman zum Pezeltt geschickt Vndt fragen lassen, wisse ihn aber nicht zu zeihen. Beruffen sich auff des Scholzen Zeugmiß: Scholz Zeugt, Christoff bargman hette es ausgesagt: dz er Von M. pfeiffern an Pezelt. geschickt, Vndt gefrag. lassen, woher er mit dem Schar Kome. Görge schmiede Junge ausgesagt, dz Pfeiffer bey ihm gesagt, Pezeltt hette des haders Vndt hadersach. halben wegzihen mussen.
+
+
+Example 38
+English:
+Old Päseler sold straw from Michelberge to Rueßdorff under the monastery: and then Hans Crusche, Jacob Schubarth and Michel Scheffer from Michelsberge, with some 12 persons, came upon this man and wanted to strike him dead, and Crusche said, he had to die, even if he had a hundred necks. This was complained about to Melchior Gersdorff on the 18th of this month.
+
+Translation to Early Modern Bohemian German:
+Hatt der alte Päseler Strohe Von Michelberge, nacher Rueßdorff Vnters Closter Verkaufft: da ist hans Crusche, Jacob schubarth Vnd Michel Scheffer Von Michelsberge mit in 12. Persohnen vf dieser Mann Kommen Ihn todtschlag. wollen, Vnd der Crusche gesagt, Er muste ihm sterben, wen Er hundert halse hette. dies ist den 18. diß dem Melchr gersdorff. geklagt.
+
+
+Example 39
+English:
+George Huebner complains that last year his brother died and left small children behind him, now they had kept the small child dwelling with them for a time but no-one had wanted to have it any more, so he took it to the grandfather in Bullendorf, this offended his brother Paul Hubner, who came to him drunk and said thou art a fine brother, why did you cart the poor boy away in the cold, and struck at him.
+
+Translation to Early Modern Bohemian German:
+George huebner Claget sein brüder wehre Vorgangenes ihares gestorben, Kleine Kinder hinder ihme Vorlaßen, Nun hetten sie das Kleine Kindt eine Zeittlang Vnterhalten, daßelbe hette Keiner mehr haben wollen, do hette ehr es den Grosvater nach Bullendorff Zugefuhret, Solches hette seinen bruder Paul hubner Vordroßen, In Voller weise zu ihme Kommen, gesagt, du bist ein feiner bruder, warumb hastu den armen Junge in der Kelde hinweg gefuhret, Vnd auff ihnen Zugeschlagen.
+
+
+Example 40
+English:
+Since the village headman in Hohenwalda complained in the highest terms against George Lachman and Jacob Kohter that they will render him absolutely no obedience, despite the fact that they are his jurymen, they are both taken into imprisonment and released from it again on condition that they promised in the manorial court to behave peaceably and modestly toward the village headman and to render him proper obedience regarding the village court, on pain of a fine of 10 Schocks each, signed 8 Dec 1612
+
+Translation to Early Modern Bohemian German:
+Demnach der Schulteß Zu hohenwalda sich vber George lachman Vnd Jacob Kohter daselbsten zumb hochste beschweret, das sie ihme gahr Keinen gehorsamb leisten wolten, vnangesehen, das sie doch seine Schöppen wehren, seindt sie beide gefenglichen eingezogen word., dergestaldt hinweiderumb entledigt das sie im Ambt zugesagt, friedlich, Vnnd schiedtlich Keg. den Schulteßen zuleben, Vnd ihme gerichts weg. schuldig. gehorsamb zu leisten, bej strafe ein ieder.10. sso Sig.m.8. Xbris Ao 612.
+
+
+Example 41
+English:
+Hans Vlrich brings forward, how he along with his wife yesterday, when the exchange between them had been concluded, had wanted to have a drink together in the village tavern, then Matz Piltz also came into the village tavern, had himself served a tankard of beer, afterwards he stepped before the jurymen table, firstly attacked the jurymen with considerable words, afterwards called Vhlhanßen and his wife names as follows, that they were dissolute trivial people, there was nothing good in them, they had consumed away what was theirs with dissolute people.
+
+Translation to Early Modern Bohemian German:
+Hans Vlrich bringet vor, wie ehr benebenst seinen weibe gestrieges Tages, wie der Tausch Zwischen ihnen beschlossen worden, in den Krezschemb, einen Trunck mitt einander thune wollen, do wehre Matz Piltz auch in den Krezschemb Kommen, hette ihme laßen eine Kane bier geben, nachmals wehre ehr vor den Schöppen Tisch getretten, erstlich.n die Schöppen mit Ziemblich. wortten angegrieffen Nachmals den Vhlhanßen Vnd sein weib derogestald gescholtten, sie wehren lohße leichtferttige leute, wehre in ihnen Keine gutt Ander sie hetten das ihrige mit lohßen leuten Vortzehret,
+
+
+Example 42
+English:
+Abrahamb von Schweinich renders thanks for the session-day which has been arranged, will not grant that negotiations should take place in advance concerning the purchase-moneys, but rather that one should legally proceed in the lacks that have been pointed out, and should deal with them; desires a retreat-discussion, to become clear about the listed lacks; for the 18 Talers he produces a slip of paper which his deceased father prepared, the clerk also reckoned it, now if he did not count this, he the clerk will well know and be satisfied the 22 Argents 6 denarii he counted, but because it will not be passed, he wishes to set it out, the meat he did count, but the butcher will not admit it, he must maintain this upon his conscience.
+
+Translation to Early Modern Bohemian German:
+Abrahamb V. Schweinich bedancket sich der angestelleten Tagefart, wil nicht Zugeben, das man Vorhin weg.n der Kaüffgelder Tractiren solle, Sondern das man in den angestelleten mängeln procediren, Vnnd Vorfahren thüe, Vnd derßelb. erorttern solle, begehre eine abtritt, sich auff die ausgesezte mangell zuerclahren, auff die.18. Tal. produciret ehr einen Zettell, so der Vatter seelig. Vorfertiget, hat der schreyber es aüch v.rechnet, Hat ehr daßelbe nun nicht gezahlet, so will ehr der schryben wohl wißen Zufrid. die.22. arg..6. d. hat ehr gezahlet, weil es aber nicht wil paßiret werden, wil ehr es ansezen, Das Fleisch hat ehr gezahlet wil aber der fleischer solches nicht gestendig sein mus ehr auff sein gewißen solches gehalten.
+
+
+Example 43
+English:
+It turns out that the remaining 22 Schocks lies upon Jacob Apeltt or Jacob Lorenz to pay, which is to be found out from their purchase documents, they are commanded that within 8 days from now they shall both present themselves with their purchase documents and lists before the manorial court and await further judgement.
+
+Translation to Early Modern Bohemian German:
+Befindet sich, das der Rest 22 sß hinter Jacob Apeltten oder Jacob lorenzen stehe auß ihren Kaufbriefen Zu befinden, Ist ihnen befohlen, das sie beide heut vber 8 tagen sich mit ihren Kaufbrieffen vndt verzeichnussen ins Ambt gestellen sollen, vndt ferners beschaidt erwartten.
+
+
+Example 44
+English:
+Martin Vogel from Hainersdorf, who broke up the cottage in the commons which Joerge Seliger built, and made use of it outside the manor, shall build it back up within 2 months from today, for which are pledges Joerg Streit, Bartel Vlrich and Hans Weisse, on pain of losing 200 Schocks, signed 17 Aug 1590.
+
+Translation to Early Modern Bohemian German:
+Martin Vogel von hainerßdorff, welcher das heußlen in d. awen so Jörge Seliger erPawet, abgebrochen vnnd ausser der herrschafft vorwendet, Sol dasselbe von dato in Zwayen monaten wied. auf Pawen, darfür Pürgen Jörg Streit, bartel vlrich vnd hanß weiße, bey vor lust 200 sß, Signat: den 17 Augustij, Ao 90
+
+
+Example 45
+English:
+Hanß Nicht and Mathes weber from Raspenaw. Because both of them, Hans Nicht 30 Schocks and Mathes Weber 24 Schocks, owe Jacob Nicht, the servitor of lord Marx Lidlaw, according to the cut-out slip of paper, which money he has not been able to get from them despite much dunning and prosecuting, but rather they excuse themselves on the grounds of their great poverty and inability to pay in these difficult times, therefore lord Christoff von Reder baron of Friedland set a deadline for them, that between now and next St Walpurga's Day each shall sell his farm and pay the money into the manorial court, so that the said Jacob Nicht may be paid and satisfied from it, which they promised with hand and mouth to do, 15 Feb 1584
+
+Translation to Early Modern Bohemian German:
+Hanß Nicht vnnd Mathes weber von Raspenaw. Demnach sie beyde, als hanß Nicht 30 sß vnd mathes Weber 24 sß dem Jacob Nichten des herrn Marx Lidlaw diener laut der ausgechnittenen Zettel schuldig worden, Welche gelder er von Ihnen nach Vielfeltigem besehener liehenn mahnen vndt Klagen nit bekommen mügen, Sondern sie ihr groß armut vnnd Vnuormiegen in dießer schweren Zeyt Zahlung Zu thun, furgewandt, Ist wan dem wolgebornen herrn Christoffen von Redern Freiherrn auf Fridtlandt ihnen frist geben, das sie Zwischen hir vnnd Kunftig walPurgis ain Jeder sein Guett vorkauffen vnnd die bahren gelder ins Ampt er legen sollen, damit gedachter Jacob Nicht, daruon Zahlet vnnd befridigt werde, Welche sie also mit handt vnnd mundt Zu halten Zugesagt vnnd Vorsprochen, Signatum den 15 february. Ao. 84.
+
+
+Example 46
+English:
+Michel Schwertner from Hainersdorf; since on account of a game-dog which he lost out of carelessness he was put in gaol, he is now let out on condition that he pay the lord his grace within eight days whatever the lord his grace imposes on him, pledge is Gregor Nerger from Heinersdorf, Friedland 9 Sep 1584
+
+Translation to Early Modern Bohemian German:
+Michel schwertner Zu Hainerßdorff, demnach er wegen ainer wildt blawhen die er auß vnachtsamkeit verlohren in gefenckhliche hafft ein gezogen worden Ist er doch Zu bürgen wiederumb her aus geben der gestaldt das er sich mit den herrn S. G: inerhalb Acht tagen Wie hoch ihme die selbe Von Iren G: angeschlagen wirdt richtig vertragen vnd Zahlen sol darfur ist Pürge Gregor Nerger Zu heinnersdorff, Signat: Fridlandt den 9 Septemb: A.o 84.
+
+
+Example 47
+English:
+Jacob Streit from Hainersdorf, since and when he quarreled with Anthoni Schweidler, also from there, in the village court in Dittersbaechel, and they severely wounded each other during this, for this reason he was taken into imprisonment and released again on pledges, as follows, and thus, that when and at whatever time he is summoned he will report himself, on pain of 20 Schocks, for which are pledges, Anthonij and Joerg Streytt his brothers, both of them from Hainersdorf, Friedland 8 Jan 1592.
+
+Translation to Early Modern Bohemian German:
+Jacob Streit Von hainersdorff demnach Vnd Alß er sich mit Anthoni schweidlern Auch daselbst, In den gerichten Zum dittersbäachlen gehadert Vnd ainander daruber hartt Vorwundet Ist er derenthalben gefenglichen eingezogen Vnd Zu purgen wiederumb außgeben der gestaldt Vnd Also das er sich wan Vnd Zu Welcher Zeit er gefordert gestellen soll, bey d. Peen 20 sß dafur Ist Purge Anthonij Vnd Jörg streytt sein bruder Alle baide Von hainersdorff Signatum Fridland den 8 January A. 92.
+
+
+Example 48
+English:
+Since two deer on the village court were hunted through his cows which were on the field on the meadow by the wolves, were torn up and laid low, and he remained silent about this for some many days and did not report it into the manorial court, for this reason he was taken into imprisonment and released again on pledges, he shall, on pain of losing 50 Schocks, report in here in front of the lord his grace when and however often he is summoned, pledges Hans Glaser Caspar Purckert zu Dietterspach and then the old and young Jorge Weisen from Ringenhain, signed 6 May 1598.
+
+Translation to Early Modern Bohemian German:
+Demnach Zwey Rehe Uf den Gerichten Uon den Wolffen durch seine Kühe Welche Vfm feldt Uf d. Weide gewesen durch geJagt, Zerrißen Vnd darnid. gelegt Word., Vnd er solches Etliche Uiel Tage Uorschwieg., Und Im Ampt nit AngeZeiget, Ist er derenthalben gefenglich. eingezog. Vnd Zu bürg. wied. herauß geben word., bey Uorlust 50 sß, Wan Und so oft er gefodert, sich herein Vorn herrn S. G. gestellen soll, Pürgen hans glaser Caspar Purckert Zu dietterspach dan der Alte vnd Junge Jorge Weisen Von Ringenhain, Signat: den 6 May Ao 98 p
+
+
+Example 49
+English:
+On 21 July 1606, Görge Krichuffen in Raspenaw was instructed, since he still remained indebted to Martin Firlen in Görlitz for honey 26 Talers 9 Argents according to the latter's register, and as also emerged from Krichoff's own report, but he claims he had paid him 18 1/2 Talers on this, that he shall prove this within the next 14 days or lacking proof, properly pay and satisfy the said creditor Merten Firlen.
+
+Translation to Early Modern Bohemian German:
+Anno 1606, den 21 Julij ist Görge Krichuffen Zu Raspenaw aufferlegt worden, nach dem er Martin Firlen Zu Görlitz an honnig noch 26 thl. 9 Arg. besage desselben Registers Vndt wj auß Krichoffs aignen bericht Zue vornehmen gewest, per Resto Vorblieben, er Aber für geben, hette ihm 18 ½ thl. darauf gezahltt, dz er solches innerhalb nechster 14 tagen beweisen oder in mangel deß beweises gedachten Glaubiger Merten Firlen gebuhrlich Zahlen Vndt befriedigen solle.
+
+
+Example 50
+English:
+George Leubner Junior gives testimony and witness that Keil came into the house, asked after his father, the son reported that he was gone out, Keil said, he does it always namely when he should help further the community affairs, Keil further said, he should no longer be present, no-one wanted to do anything with it, in the town's affairs they would and wanted all to be perjured on the town, and fall to the lord his grace, during this his father came home, Keil came back to him and mentioned this speech again, the other community elders were present, he said, he was silent, but I will myself report, but Keil did not let him Horn bring out any word, called his father an honourless, perjuring villain, also called his mother an honourless woman, his words being that she carried the earth-ground.
+
+Translation to Early Modern Bohemian German:
+George Leubner junior sagett aus Vnd Zeugett, dz Keil ins hauß Kommen nach den Vater gefragt d. Sohn berichtet, er were auß der gang. Keil gesagt, er machts nimer alß wan er der gemeine sachen befodern sol helffen, Keil weiter gesagt, er solte nimer dabey sein niemandt wolte nichts dabey thun, bey der stadt sachen Sie wurden vnd wolten alle meinidig an d. stadt werden Vnd dem herrn S. Gn:. Zufallen, Were in des der Vatter heim Kommen, Keil wieder zu IHme Kommen, Vnd solche reden wieder erwenet d. andere gemein elteste dabey gewest, gesagt, er schweigt doch Ich wil ihn wol selber berichten, Keil aber ihn den horn Kein wort aufbring. laßen, den Vater Vor einen erhlosen Meinidig. schelmen gescholten, die Mutter auch Vor ein ehrloßes weib mit word dz Sie d. erdtboden träge.
+
+
+Example 51
+English:
+Jacob Blumberg has vowed concerning 13 Schocks to name acceptable pledges, will deliver a woollen cloth tomorrow and afterwards one every 8 weeks, but if this does not occur, he shall be assisted to the entire remainder. Will favour him with this debt on pledges and deliver it.
+
+Translation to Early Modern Bohemian German:
+Jacob Blumberg hatt angelobet weg. 13 sso. annehmlich. burg. zusezen, will morg. ein Tuch einstellen Vnd nachmals alle 8 woch. eines, wirdt aber daßelbe nicht geschehen, soll ihme Zumb ganzten Rest Vorholffen werd.. Will ihme dießer schuldt ein gunst auf barg. vnd einstellen.
+
+
+Example 52
+English:
+Since he defamed Jorg Benischen in the village court, called him a thief of sixty Talers, promises that on pain of 10 Schocks he will report back when summoned and pay his penalty, pledges are Merten Hofman from Reichenau and Nicek Sälger from Merkersdorf, signed 20 Jan 1586.
+
+Translation to Early Modern Bohemian German:
+Demnach er Jorg benischen in den gerichten an seinen ehren vorletzet, vnd ihme ainen sechziger taler dieb gehaißen vnd gescholten hat angelobet das er sich bey verlust 10 schogk auf erfoderung wie der gestellen vnd das Ihenige was ihm auferlegt wird vorrichten vnd den selben nach komen soll, darfur sint Purgen Merten hofman von Reichenaw vnd Nickel Sälger Von Merckerßdorff Sig: den 20 January A.o 86.
+
+
+Example 53
+English:
+Since he was accused of fornication by Ursula Krausin in the Muehlscheib, and did not admit the same, he is set free as follows, that he shall present himself again at any time upon summons, concerning this he named as pledges on pain of 50 Schocks, Goerge Man his father and Jacob Neuman in Muehlscheibe, Actum Friedlandt 4 Nov 1606.
+
+Translation to Early Modern Bohemian German:
+Demnach er Von Vrsula Krausin auf der Mühlscheib Vnzucht halber beschuldigt, Vndt dasselb nit gestendig, Ist er solcher gestalt loß geben, dz er Jederzeit auff erfoderung sich wieder gestellen soll, hierüber Zu bürgen gesetzt, bej der Peen 50 ss, Görge Man seinen Vater, Vndt Jacob Neuman auff der Mühlscheibe, Actum Friedlandt, den 4 Nouembris Ao 1606.
+
+
+Example 54
+English:
+Christoff Godelt admits the debt, Christoff Godelt has vowed in the manorial court, and promised within 8 days of today to pay 14 Schocks on this sum of 92 Schocks, there remain still outstanding 78 Schocks These the accused promised to pay interest on from this day on, each Schock with 4 Groschens, and on St John's Day this current year 1610 to pay 10 ½ Schocks along with 10 ½ Groschens one quarter year's interest, Martinmas 1610, again 10 ½ Schocks And then on 67 ½ Schocks three quarters of a year of interest, namely 3 Schocks 22 ½ Groschens on St John's Day 1611 10 ½ Schocks And then on Schocks half a year's interest namely 1 Schock. 54 Groschens there still remains principal 57 Schocks On Martinmas 1611 again 10 ½ Schocks and half a year's interest 1 Schock Groschens St John's Day 1612 10 ½ Schocks And then half a year's interest namely 1 Schock 6 Groschens March 1612 10 ½ Schocks interest 51 Groschens St John's Day 1613 10 ½ Schocks half-year's interest 30 Groschens finally March 1612 4 ½ Schocks And on this interest 9 Groschens. Thus the interest amounts to 9 Schocks 36 Groschens but now so that the debtor is not burdened with payment of the interest, Matz Piltz agreed that this interest shall be added to the principal and the following installments shall be paid.
+
+Translation to Early Modern Bohemian German:
+Christoff Godelt gestehet der schüld.n, Es hat Christoff Godelt im Ambt angelobet, Vnnd Zugesagt Vonn dato in 8 Tag. auff solcher Summa der 92 sso. abzulegenn, 14 sso. Vorbleibenn noch hinderstellig, 78 sso. dießelben Hatt beclagter Vonn dato Zugesagt iedes sso mitt 4 g. Zuuortzinßen, Vnnd auf Johannis dießes izlaufend. 1610 abzuleg. 10 ½ sso. benebenst 10 ½ g. quarters ihärig. Zins, Martinj Ao 1610, hinwiederumb 10 ½ sso. Vnnd dan Von 67 ½ sso. drey quarters iharig.n Zins benendtlichen 3 sso 22 ½ g. Auf Johannes Ao 1611 10 ½ sso. Vnnd dan Von 57 sso. halbihärig. Zins als 1 sso. 54 g Vorbleibet noch haubts: 57 sso. Martinj Ao 611 Hinwiederumb 10 ½ sso Vnnd halbiharig. Zins 1 sso. g. Johannis Ao 1612 10 ½ sso. Vnd dan Halbiharig. Zins also 1 sso 6 g. Martij Ao 612 10 ½ sso. Zins 51 g. Johan: 613 10 ½ sso. halbiharig. Zins 30 g lezlich. Martij Ao 612 4 ½ sso. Vnd Hieruon Zins 9 g. Treget also der Zins aus 9 sso. 36 g. darmit aber nun schüldiger mit ablegung der Zinßen nicht beschweret, hat Matz Piltz Verwilliget, das solcher Zins zue der Haubtsumma geschlagen, Vnnd nachuolgend. posten abgelegt werd. möchte.
+
+
+Example 55
+English:
+Christoff Knibelt reports that Christoff Olsner there had struck him over the head twice with a toggle spike behind his back behind his farm twice. Christoff Olsner reports he had not been able to have any peace from him, he had vexed him from the wine-tavern until behind his farm. NB. Because out of the testimony of those present it emerged that Knebel uttered many words which he could well have refrained from uttering, and thus Olsner after long wearisome patience became angry, but he ought to have used the village court and not blows, they were both punished with prison, and Olsner, because he beat Knebeln bloody, paid 2 Schocks fine, Knebel shall for his vain words keep the blows he earned, they have vowed to live peaceably and modestly, each on pain of 10 Schocks, pledges Chirstoff Miller in Ruckersdorff. Signed Friedland 2 March 1614.
+
+Translation to Early Modern Bohemian German:
+Christoff Knibelt berichtet, wie ihnen Chhristoff Olsner daselbsten mit einer Knebel spieße ruckling. hinder seinen hofe Vber den Kopff Zweymahl geschlagen. Christoff Olsner refert ehr hette vor ihme nicht zufreeden sein können Hette ihme geVexiret Vom Weinkeller ihnen bis hinder seinen hoffe. NB. Weil aus der beywesenden anßage souiel befunden das der Knebel Viel wortte abgehen laßen so ehr wohl behalten konnen, Vnd sich also der Olsner nacht langewieriger gehabter getuld darüber entrustet, ehr aber die gerichte gebrauch. Vnd nicht schlagen sollen, seind sie beide mit gefengnis gestrafft worden, Vnd hat der Olsner weill ehr Knebeln blutrunstig geschlagen.2. sso straffe erlegt,, der Knebel soll die Vor seine Vnnuze wortte erlangte schlege Vorbleiben, haben angelobet Friedlich vnd schiedtlich zuleben ein ieder bej der poen.10. sso. burge Chirstoff Frantze Mollern Zu Ruckersdorff. Sig.m Friedl. 2. Martij Ao 1614.
+
+
+Example 56
+English:
+Christoff Sembdner from Bullendorff reports, he owed 8 Talers to Görge Großman from Kemnitz, had a horse to sell, said to Großman, he would sell it to him for 9 Talers, hereupon Großman took the horse out of Paul Sembdner's farmyard, Christoff Sembdner said, he should not take the horse away, he should first defend himself, during this Großman struck at him with a currycombe behind the ear, so that he bled, he defended himself, so that he also bled, for which reason they both had themselves inspected visually in the village court, Sembdner finally let the horse be released to Großman for 9 Talers. Conclusion. Since they both bled, they are both obliged to pay the bloodshed fine, and Matz Paul on account of pledgeship he rendered for Görge Großman shall pay the 2 Schocks, and demand the latter back from Großman, or else apply to the debts which Großman has to demand in Rückersdorff or Hainerßdorff, likewise, Christoff Sembdner, or his pledge Hans Apeltt, shall deliver in the Weissen Schocks within 8 days.
+
+Translation to Early Modern Bohemian German:
+Christoff Sembdner von bullendorff Zeigt an, er seye Görge Großman von d. Kemnitz 8 thl. schuldig gewesen, Ein Roß zu vorkauffen gehabt, Großman gsagt, er hette es ihme Vmb 9 thl. Vorkaufft, hierauff Großman das Pferdt auß Paul Sembdners hoffe genommen, Christoff Sembdner gesagt, Er solte dz Pferdt nit wegnehmen er solle sich zu Vor gewehren lassen, Vber solchem hette Großman auff ihn zugeschalag. mit einer Strigell hinters Ohr, dz er gebluttet, hette er sich gewehret, dz er auch gebluttet, hierumb sie sich beide in Gerichten besichtig. lassen, Sembdner dem Großman endtlich das Pferdt Vmb 9 thl. folgen lassen. Conclusum. demnach sie baide gebluttet, sindt sie beide die Bluttrunst zu erleg. schuldig, Vndt soll Matz Paul weg. gethane Burgschafft fur Görge Großman dj 2 sß erleg., Vndt solche von Großman wieder fodern. oder sich an dj schuldt die Großman zu Rückersdorff oder hainerßdorff zu fodern hat haltten, In gleich. soll auch Christoff Sembdner, oder sein Burge hans Apeltt das weissen sß. inner 8 tag. einstellen.
+
+
+Example 57
+English:
+Hans Nauman in Liewerda has vowed in the manorial court to content and satisfy Paul Vlrichen from Weispach between now and Michaelmas to such an extent than on this account no further complaint shall come in, pledge for this Caspar Christoff in Liewerda.
+
+Translation to Early Modern Bohemian German:
+Hans Nauman Zu liewerda Hat im Ambt angelobet Paul Vlrichen Vonn der Weispach à dato Vnnd Michäelis dergestald Zue contentiren Vnd zübefrieden, das dießerhalben ferner Keine Clage einkommen solle, burge daruohr Caspar Christoff Zue liewerda.
+
+
+Example 58
+English:
+Hans Seibeht in Ruckersdorff has 5 Schocks debts standing with Christoff Helbig, for which Jacob Nauman is self-indebted pledge, claims he cannot obtain the payment either from Penisiji Ahlen, nor trustee. They were already given a deadline of 9 weeks by the village headman. Jacob Naüman has vowed in the manorial court, on pain of going into prison, to pay these 5 Schocks together with outstanding interest, signed Friedland 12 March 1612
+
+Translation to Early Modern Bohemian German:
+Hans Seibeht Zu Ruckersdorff hat by Christoff Helbig 5 sso. schuldt steh., daruohr Jacob Nauman selbschuldiger burge, wendet Vor ehr Konne die Zahlung weder Von Penisiji ahlen, noch fidenjussore erlangen. wehren Von Schulteßen alberedit 9 wochen gefristet word.n, Hatt Jacob Naüman im Ambt angelobet, auf Michäelis bej eingehung des gefengnus solche 5 sso sambt Vorseßenen Zins abzutragen, Sig.m Friedlandt den 12 Martij Ao 1612.
+
+
+Example 59
+English:
+Since they quarreled on the open road and beat one another bloody, for this reason they have vowed and promised, that each would pay and render 2 Schocks fine next Saturday, signed 19 Jan 1588
+
+Translation to Early Modern Bohemian German:
+Demnach sie sich auff freyer straßen gehadert Vnnd Einander bluet runstig geschlagen, Haben derwegen angelobet vnd zugesaget, das ein Jeder 2. ß auf nechst kunftigen Sonnabend zur straffe erlegen vnnd geben wolle, Signatum den 19. Januarij Ao p 88.
+
+
+Example 60
+English:
+Hans Schefer promises here in the manorial court that he shall pay Hanßen Leubnern on those 12 Schocks every 4 weeks and thus monthly 2 Schocks, additionally Peter Pültz also promises between now and Michaelmas to make right the 19 Schocks in pledgeship for the village headman in Dorffell on next coming Michaelmas along with the interest, signed 4 September 1610.
+
+Translation to Early Modern Bohemian German:
+Hans Schefer saget alhier im Ambt Zue das ehr alle Vier wochenn Hanßen leubnern Schulteßen Zumb dörffell an dero 12 sso. Vnnd also monatlich. 2 sso, erleg. solle, Item Peter Pültz saget auch zue Zwisch. hier, Vnnd Michäelis die in burgschafft Vor den Schulteßen Zumb dorffell 19 sso. auf Kunfftig. Michäelis nebenst dem Zinße richtig Zuemach.n. Sig.m 4. Septemb. Ao. 610.
+
+
+Example 61
+English:
+Concerning the tun of herrings for which Paul Neuman was also pledge, which village headman of Haindorff had obtained, it was agreed that these shall be paid from the cash moneys which are to be paid on the village court on next coming Christmas by the current village headman. The village headman's widow, has vowed to deliver the 5 pieces of pewter vessels into the village court early tomorrow.
+
+Translation to Early Modern Bohemian German:
+Wegen der Tonnen hering dafur Paul Neuman, So die Scholtzen Von Haindorff bekommen, Auch Purge, sint Vor glich. das Von den bahren geldern sol auf Weynachten nechst Kunfftig auf die Gerichte durch den Jezig. Scholtzen gelegt, solche sol geZalet werden. Die Scholtzin, Wittib, hat anglobet die 5 stück Zihnen gefäß balt morgendes tages In die Gericht ain Zu Antworten.
+
+
+Example 62
+English:
+Merten Pfeiffer's wife/widow complains against Michel Krausen, that he struck her, as his mother-in-law, they were speaking about several nails which she had drawn out of the boards, that he ruined the farm, and took everything away. Krause answers that she gave him cause to do this with vain words, first struck at the daughter, then he took his wife's part and pushed the mother with his hand. Krausen is sentenced to punishment in prison.
+
+Translation to Early Modern Bohemian German:
+Dj Merten Pfeifferin Klagt vber Michel Krausen, das er sie als seine Schwieger Mutter geschlag., hette vmb etliche Nägel geredt, die sie auß der Breten gezogen, Ich das er das gutt Verwustet, alles hinweg flichtet, Krause antworttet, sie hette ihm hierzu vrsach geben, mit vnnutzen worten, hette erstlich auf die tochter geschlag., da hette er sich seines weibes angenommen, Vndt die Mutter mit der handt gestossen, Krausen aufferlegt gefengliche straff.
+
+
+Example 63
+English:
+These did not appear to the bringing-in of the wheat in the castle-demesne.
+
+Translation to Early Modern Bohemian German:
+Dieße seindt nicht zu einbringung deß weizens vfm Schloß Forwerg erschienen
+
+
+Example 64
+English:
+Christof Flick butcher here in Friedlandt, has vowed in the manorial court that he will completely satisfy Hanßen Lindner, concerning the 16 ¾ Schocks for which he stands in pledgeship to him within 14 days, signed 26 November 1609.
+
+Translation to Early Modern Bohemian German:
+Christof Flick Fleischer alhier Zue Friedlandt, hatt im Ambt angelobet, das ehr hanßen lindner, denen Vor ihn inn burgschafft hafftend. 16 ¾ sso Von dato innerhalb. 14 Tag. genzlich Contentiren wolle. Sig.m den 26. Novembris Ao 1609.
+
+
+Example 65
+English:
+Since four years ago he remained silent on the dues owed by Jacob Willer there, and when the dues was paid he never reported this man, he was put in gaol and let out on condition he reports when summoned, pledge for this is Merten Nicht from Mildenau, 27 May 1586
+
+Translation to Early Modern Bohemian German:
+Demnach er Jacob willern daselbst, mit den Zinsen vier Jahr hero vorschwiegen vnd denselben wen man die Zinß erlegt Zu Kainer Zeit angemeldet, derenthalben er gefencklichen eingezogen vnd Zu Purgen das er sich auf erfoderung wieder gestellen soll heraus geben worden, darfur Pürg Merten Nicht von Mildenaw den 27 May A.o 86.
+
+
+Example 66
+English:
+Since on account of debts he was oft and frequently complained against but upon frequently issued command would not make any payment, for which reason he was held here for a time in imprisonment and released again that between now and 6 weeks from now he shall sell his farm the village headman's holding and fill it again with a capable person, on pain of losing 100 Schocks, for which are pledges Joerge Schwertner from Dittespaechl, Bartel Ulrich from Hainersdorf, Anthoni Schwedler, signed 1 May 1592.
+
+Translation to Early Modern Bohemian German:
+Demnach er schulden halben oft vnd vielfaltig vorklagt worden, aber auf oft gethane befehl Keim Zahlung than wollen, darum er ain Zeit hero gefenglich gehalten worden, vnnd wieder entlediget, das er Zwischen hier vnnd 6 wochen sein gut die scholtzerey vorkauffen vnnd wiederumb mit ainer tüglichen Person besetzen solle, bey vorlust 100 sß, darfür sint Purgen, Jörge Schwertner, vom dittesbächel, bartel vlrich von hainersdorf, Anthoni Schwedler, Signatum dem 1. May Ao. 92.
+
+
+Example 67
+English:
+To the council in Friedland and the community elders in town and suburb the following is put forward: that they will recall in what way the brew-yarders in Friedlandt had complained in various points against Hanß Sommer town magistrate in Friedlandt with the holy Roman imperial majesty, our all-gracious Emperor, kind and lord, and had wanted to accuse him of all sorts of disloyalty, also finally through their interminable complaints brought it so far that our gracious lord his grace was informed through an imperial resolution, to release him graciously from the offices he held, or he would, on the strength of his majesty's resolution hereby be released, now before his majesty's resolution arrived, the said magistrate had petitioned our gracious lord his grace and himself applied for released from his offices, thereupon his grace had graciously released him from his offices. But because above all the office of magistrate cannot long remain vacant, their graces commanded us to bring before them the present George Leubner, and to ordain him as a second town magistrate, who thus shall render the legal oath.
+
+Translation to Early Modern Bohemian German:
+Dem Rathe in Friedlande Vnd dem gemeine Eltesten in Stadt Vnd Vorstadt ist dießes vorgehalten worden, das sie sich zuerinnern, welchergestaldt die Breuhöfere in Friedlandt sich in Vntterschiedenen Puncten Vber hanßen Sommern Stadtrichternn in Friedlandt bey der Röm: Kays: Mat, Vnserem Allergnädigsten Kayswern, Könige, Vnnd hern beschweret, Vnnd ihnen allerhandt Vnttrew bezichtigen wollen, auch entlichenn es dahinn durch ihr Vnauffhörliches Clagen gebracht das Vnserem gnedigen hern S. Gn. durch eine Kays. resolution ist angedeütet wordenn, ihnen seinen auff getragenenen Ambter in gnaden zuerlßen, oder solte deroselben Kraft Ihr Ma.t resolution hiermit entlediget sein, Ehe nun Ihr Ma.t resolution ankommen, hat ermelter Richter bej Vnserm gnädigen hern S. gn: Supplicando angehalten, Vnd selbsten Vmb erlaßung seiner Ämbter gehorsamblichen ansuchung gethan darauff Ihr Gn: ihnen seiner Ämbter in gnaden erlaßen. Weil aber Vornemblichen das Richter Ambt nicht lange ledig stehen Kann, Hetten Ihr Gn: Vns anbeuohlen, Kegenwerttigen George leubnern ihnen Vortzustellen, vnd zu einem andern Stadtrichter Zuverordnen, welcher also das juramentum judicis leisten solle
+
+
+Example 68
+English:
+The village headman in Marckersdorf reports that Gregor Arnolt's daughter Dorothea got herself slept-with, the wench reports that Hans Wiedische's son Christof in Cunnersdorf a peasant there did it, slept with her three times at Nicoll Linck's with whom she was a servant.
+
+Translation to Early Modern Bohemian German:
+Es berichtet der Schulteß Zue Marckersdorff wie Gregor Arnolts Tochter dorothea sich beschlaffen laßen, die Vettell berichtet das hans wiedisches Sohn Christoff Zu Cunersdorff ein Pauer daßelbe gethan, bej ihr drey mahl geschlaffen bej Nicoll lincken bej dem sie gedienet.
+
+
+Example 69
+English:
+Michel Schwerdtner from Hainerssdorff, since he improperly defamed in her honour lady Elisabeth nee Schwantzin, wife of Heinrich Rauscher in Hainersdorf, inconsiderately and untruthfully, without any justification and cause, out of anger and bitterness, for which reason he was taken into imprisonment and was released again on pledges, as follows, that when is is summoned that these after-mentioned persons shall deliver him again into prison on pain of losing 100 Schocks, for which are pledges Georg Fridl and Georg Streitt from Hainersdorf and Martin Noessler from Friedland, signed Friedland 17 Feb 1587
+
+Translation to Early Modern Bohemian German:
+Michel Schwerdtner von hainerßdorff, demnach er fraw Elisabeth geborne Schwantzin, hainrich rauschers zue hainerßdorff eheliche hauß fraw, ohn alle schuldt vnd vrsach vnbedachtsamer vnd vnwarhafftiger weiß, auß Zorn vnd verbitterung, an ihren ehren Zue vngebühre geschmeht, derenthalbe er in gefengliche hafft eingezogen vnd zue Pürgen wiederumb außgeben worden, dergestaldt, das wan er gefordert wirdt, das ihn diese nach beschribene Persohnen in die gefengniß wiederumb einstellen wollen bej verlust 100 schock, darfür Pürg Georg fridl, Georg Streitt von hainerßdorff vnd Martin nößler von Fridlandt Signaturm Fridlandt den 17 february Ao. 87.
+
+
+Example 70
+English:
+Michell Helbig, or Coachman Michell's creditors were on today's date 7 May 1610 summoned into the manorial court and negotiations undertaken between them, also means and ways proposed whereby they might be paid their debts, but because it turned out that these debts reach higher than his, Coachman Michel's house and property, he was instructed to clear out of his house and farmyard between today and next Wednesday, and the same shall be sold by the creditors on the Tenerße, and divided among the creditors, signed Friedland 7 May 1610.
+
+Translation to Early Modern Bohemian German:
+Michell helbig, od. Kutzsche Michells creditores, seindt heüte dato den 7 Maij Ao 1610, ins Ambt erfordert, Vnnd Zwisch. ihnen Vntterhandlüng gepflog. word., auch mittell, Vnd wege Vorgschlag., welcher maßen sie ihrer schüld. Zahlet werden Köndten, dieweill sich aber befund., das sich solche schüld. höher Vnd auf 206 sso. erstrecken, als sein Kuzsch. Michels Hauß Vnnd Vormög.n, Ist ihme auferleget, sein Haus, Vnnd hoff à dato Vnnd Volgenden mittwochß genzlich. Zureumen, Vnnd soll daßelbe Von denn creditorn aufs Tenerße Vor Kaufft, Vnnd Vntter die gleubig. geteilet werden, Sig.m F. 7 May Ao 610.
+
+
+Example 71
+English:
+Veit Berger complains against Paul Hoffman, that the latter came to him and spoke badly of the village headman together with the other jurymen, called them villains, also called Veit Bergern a rebellious man. Veit Berger pushed him out, Hoffman grabbed the axe and hacked at Berger on the back so that he became wounded and red-nosed.
+
+Translation to Early Modern Bohemian German:
+Veit berger Klagt Vber Paul hoffman, dz derselbe zu ihm kommen, Vndt den Richter sambt and.n scheppen V.sprochen, sie schelmen geheissen, Veit bergern auch ein auffruhrisch. Man geheissen. Veit berger ihn ausgestossen, hoffman dj Axt ergrieffen, Vndt auf bergern gehawen, auf den Rucken, dz er wunde Vndt Rutnästig worden.
+
+
+Example 72
+English:
+Since he would not accept from the watchman a manorial-court command which he was supposed to take with him to the village headman, but rather in a tavern threw it here and there, and thus treated the manor her grace's command contemptuously and threw it in the wind, he was for this reason held in imprisonment for several days by the manorial court and released again on pledges, as follows, that within 4 weeks of today he will pay the countess her grace 2 Schocks in fine, on account of the great disobedience, also when and at whatever time he is summoned he shall report back into the manorial court, for which are pledges Christoff Scheffer the Upper and Christoff Scheffer the Lower in Schoenwaldt, dated in the castle, 30 Nov 1604.
+
+Translation to Early Modern Bohemian German:
+Demnach er, einen Ampts befehl, den er dem Schulteß mitbring. sollen, von dem Wechter, nit Annemben wollen, Sondern im schenkhauß denselben hin vnd wieder geworffen, vnd Also der herrschafft J. G. Ampts befehlich, ver Achtlich gehalten vnd in windt geschlagen, Ist Er hierauff vom Ampt, etliche tage, im Thurme gefenglich gehalten vnd zu Pürgen wied. herauß geben Worden, dergestaldt, das er Von dato In Vier wochen der Gräfin J. G. 2 sß zur straff, weg. des grossen Vngehorsambs erlegen, auch wan Vnd zue welcher Zeit er gefodert, sich wied. ins Ampt gestellen soll, dafur Pürg., Christtoff Scheffer der Öber vnd Christoff Scheffer der Nieder Zue Schönwaldt, Actum Aufm Schloß, den 30 Nouemb: Ao: 1604. p.
+
+
+Example 73
+English:
+Michel schwertner from heinnerßdorff. Since on account of 2 game-dogs which he lost out of carelessness he was put in gaol, he is let out again on condition that he get the lord his grace two more game-dogs within 4 weeks or pay fine of 50 Schocks, pledge is Bartel village headman of Heinersdorf, 18 May 1585
+
+Translation to Early Modern Bohemian German:
+Michel schwertner von heinnerßdorff, Demnach er wegen Zweier wildt blawhen, so er Auß vnachtsamkeit verlohren gefenckhlichen ein geZogen worden, Ist er Zue Pürgen widervmb herauß geben der gestalt, das er den herrn J. G: innerhalb 4 woch. Zwier andere Plawhen ein stellen solle, bey verlust 50 schockh dar fur Pürge Bartel schultheß von heinerßdorff, Sig: den 18 May A.o 85.
+
+
+Example 74
+English:
+Because it is found from the village headman's report and the handed-over extract from the orphan-register, that Veit Kilman paid the old Schocks, therefore the widow of Thomas Christoff is totally refused concerning her complaint, with the threat that insofar as she further comes in this way she shall be punished with being imprisoned in the lock-up, and insofar also as the widow or Veit Kilman shall speak to one another further concerning this Schocks, or attack one another's honour with words, the offending party shall pay the lord his grace 1 Schock.
+
+Translation to Early Modern Bohemian German:
+Weil sich aus des Schulteßen bericht, Vnnd Vbergebenen Extract des weisenregisters befunden, das Veit Kilman das alte schogk erleget, als ist die wittibe Thomas Christoffes Vor ihrer Clage genzlichen abgewießen worden, mit betrauung, sofern sie ferner derogestald Kommen würde, sie mit gefengnis des Kraußes gestrafft werden solle, Wofern auch die wittibe oder Veit Kilman einander dießes schogks halben ferner besprechen, oder einander ahn ihren ehren mit wortten angreiffen wurde, sol das Vorbrechende Teil den her S. gn. 1 sso. erlegen.
+
+
+Example 75
+English:
+Christof von Gersdorf complains that some time ago in Wuestung when he had ridden past the tavernkeeper, he asked the tavernkeeper why he had accused his servant of theft, and taken him into imprisonment, concerning which the village headman had shouted out, they should strike the thief's villain dead, but he the village headman brought von Gersdorf a tankard of beer, which he threw away, and because he was in this way injured in his noble honour, not only verbally but also in reality, he asks that means and ways be recommended to him for how he might attain once more to enjoyment of his honour. Barttell Hensch the village tavernkeeper and village headman, brings in his answer in writing, von Gersdorf came in front of the village tavern drunk, and said, why had he put his servant inside, drew out his weapon, thereupon he brought the squire a tankard of beer, which the squire threw upon the ground, and made himself useless enough.
+
+Translation to Early Modern Bohemian German:
+Es beschwert sich Christof Von Gersdorf, wie ehr Vorwichener Zeit Zue Wustung bej dem Krezschmer Vorüber geritten, do hette ehr den Krezschmer gefraget, warumb ehr seinen diener diebes stuck geziehen, vnd gefenglichen eingezogen, darumb der Schultes geschrien, sie soltten den deuben schlmen Todt schlagen, es hette aber ehr der Scholteß deme Von Gersdorff eine Kanne bier gebracht, so ehr hinweg geworffen, Vnd weil ehr dero gestald an seinen Adelich. ehren vorlezet worden, nicht alleine Verbaliter Sondern auch realiter, bittet ehr ihme mittell Vnnd wege Vorzuschlagen,w ie ehr seiner ehren hinweiderumb ergezlichkeit erlangen möchte, Bartell hensch der Krezschemb Vnd Schultes, bringet seine andtwort schrifftlichen ein, es wehre der von Gersdorff vor dem Krezschemb Kommen Trünckende gewesen, gesagt, warumb ehr seinen diener eingesezet hette, seine wehre ausgezogen, darauff ehr den Junckern eine Kane bier gebracht, welche der Jüncker auff die erde geworffen, sich Vnnuze genug gemacht,
+
+
+Example 76
+English:
+Little Christoff Hübner from Schönwaldt; since he took it upon himself to cut down wood in the lord his grace's tenancy-pasture without knowledge or consent of manor and burgrave, and used it for his own purposes, is put in gaol, let out now on promise that he will in future not cut down any more wood and present himself when required, on pain of 10 Schocks, pledge is Christoff Scheffer from Schönwald, 8 Jan 1586
+
+Translation to Early Modern Bohemian German:
+Klain Christoff Hübner Von Schönwaldt, demnach er sich vnter standen, vnd in der Herrn J. G: loswißen ohne wissen vnd willen der herrschafft vnd des Burg grafens holtz ab zu hawen vnd dasselbe Zu seinem nutz gebrauchet, derenthalben er in gefenckliche hafft ein gezogen vnd auf Pürgschafft wieder heraus geben worden, der gestalt, das er sich forthin des holtzes ab zu hauen gantz vnd gar enthalten vnd wan er gefodert bey verlust 10 schogkh wiedergestellen soll, dafur sint Pürgen, Christoff Scheffer, von Schönwald Sig: den 8 Jan: A.o 86.
+
+
+Example 77
+English:
+So that it would not be necessary to prove it, they made Ansorge an apology, and besides this hav vowed, by fine to the manor of 10 Talers, that in future they would behave peaceably and in unity toward one another.
+
+Translation to Early Modern Bohemian German:
+Damit es des Vberweisens nit bedurffe, haben sie Ansorg. ein Abtrag gethan, daneben angelobet, bey straff der herrschafft 10 thaler, das sie siich kunftig friedlich Vndt einig gegeneinand. Vorhaltten wollen.
+
+
+Example 78
+English:
+Simon Lorenz in Niederweigsdorf: since he owes 13 Schocks 36 Groschens to Anthonij Geissler in Zittau for beer, he has vowed to make this right within 14 days, for which are pledges Bartel Lorenz in Oberweissdorf and Martin Herwig, village headman in Niederweigsdorf, signed Friedland 1 Dec 1586
+
+Translation to Early Modern Bohemian German:
+Simon lorenz Zue Niederweigßdorff demnach er Anthonji Geißlern Zur Zittaw 13 sß 36 g: für bier zuthun schuldig, hat angelobt solches innerhalb 14 tagen richtig zuemachen, darfur Pürgen Bartel lorenz zue Oberweißdorff vnd Martin herwig, Schulteß Zue Niederweigßdorff, Signat: Friedlandt, den 1 decemb: Ao 86.
+
+
+Example 79
+English:
+The village headman in Raspenau had Justina, Matz's Effenberg's daughter there, inspected by several women, and it was found that she had been made pregnant by someone, and was therefore taken into imprisonment; ascribed it to Christoff Seliger's son there; he afterwards married her; it is in the manor fine.
+
+Translation to Early Modern Bohemian German:
+Der Schulteß Zue Raspenaw hat Justina Matz Effenbergß Tochter daselbsten, durch etzliche weiber besichtigen laßen, Vnnd hat sich befund., das sie Von iemanden geschwengert Worden, Vnd ist also gefenglichen eingezogen, hatt aüf Christoff Seligers Sohn daselbst. bekandt, dieser hat sie nachmals geehlicht, ist in den herrschaft strafe.
+
+
+Example 80
+English:
+These two also set themselves against the village court members and elders, so that when they were commanded in, they set himself diametrically against the village court members, and wanted to lay hand on them, for this reason they were taken into imprisonment and released again, that when they are summoned they will present themselves into the manorial court, on pain of 20 Schocks, for which are pledges Christop Scholze, Jorge Pfeiffer and Christoff Druemel from Hainersdorf, Friedland 11 Jan 1596.
+
+Translation to Early Modern Bohemian German:
+Diese beide haben sich auch Wieder die gerichte Vnd eldersn gesezet wan ihnen eingePothen, sich stracks Vngehorsamblich Vorhalten vnd Handt an sie legen wollen, drumb sie gefänglich eingezogen vnd drauß entledigt daß sie sich auf erfordern ins Ampt gestellen sollen, bey Peen 40 sß darfür Pürgen, Christof scholze, Jorge Pfeiffer vnd Christof drümmel von hainersdorff, Fridlandt den 11 Januarij Ao. 96.
+
+
+Example 81
+English:
+Since at the Friedland parish festival he murdered and beat up Brosij Nerger at nighttime in Hainersdorf in the village, for which reason he was taken into imprisonment and released again on capital pledges, as follows, that upon the return of the lord his grace back here from Prague and when he is summoned, he shall deliver himself here to the castle, on pain
+
+Translation to Early Modern Bohemian German:
+Demnach er an fridlander Kirchmeß Brosij nergern bey nechtlicher weile zue hainerßdorff im dorf, ermordet vnd erschlagen, derenthalben er in gefengliche hafft eingezogen vnd zu Peinlichen Pürgen wiederumb außgeben, dergestaldt, das er sich zue des herrn S. G: von Prag wieder kunfft hero vnd wan er gefodert wirdt, hero aufs Schloß gestellen soll, bey der Peen.
+
+
+Example 82
+English:
+Gives testimony: the furrier's mother-in-law was sitting at the table beside the village headman in Vllerßdorff and the village headman of Einsiedell, Brendell came to his mother-in-law, and the village headman in Vllerßdorff began saying, wilst thou also be a freeloader, thereupon Görge Brendell said, they must be a coarse ox, what affair is it of yours. The village headman in Einsiedell said, what? am I also a coarse ox, thereupon Brendell answered, because you are also taking his part, then you must be one with him; but that Brendel was supposed to have said that all the village headmen were coarse oxen, that he did not hear. Thereupon the village headman stood up and went to the magistrate.
+
+Translation to Early Modern Bohemian German:
+Sagt auß, des Kirschners Schwiger beym Scholzen außm Vllerßdorff Vndt dem Scholzen Von Einsiedell an tische gesessen der Brendell zu seiner Schwiger kommen, Vndt den Scholz im Vllerßdorff angefang. Wilstu auch ein Schmarotzer sein, darauff Görge Brendell gesagt, Sie must ihr ein groben Ochsen sein. was gehets euch an. der Scholz Zum Einsiedell gesagt, was? bin ich auch ein grober Ochse, darauff Brendell geantwortet, Weil ihr euch sein annehmet, so must ihr einer mitte sein: das aber Brendell hette sag. sollen, die Scholzen were alzumal grobe Ochsen, hette er nicht gehörtt. darauff die Scholze aufgestanden Vndt Zum Richter gang.
+
+
+Example 83
+English:
+Hans Geisler at the gate complains against George Gerttnern the carpenter, that last Saturday when they were at Michell Kraußen's at the beer, Gertner began, said, Bertelsdorf has to send 3 persons to the muster, hereupon he answered, they are sending me two, thereupon Gertner defamed him 4 times as a double villain, thereupon he Geißler said, then thou remainest thyself a villain, for as long as thou makest me one, thereupon Gertner hit him with a pewter tankard on the right hand and struck a finger in two, present there were Michell Scholze, and old Merten Krezell former court-baker.
+
+Translation to Early Modern Bohemian German:
+Hans Geisler an der pfordte beclaget sich Vber eorge Gerttnern den Zimmerman, wie sie an nehren Sonnabende bej der Michell Kraußen Zumb bieren geweßen, do hette Gertner angefang., gesagt, Bertelsdorf mus drej persohn auf die Musterung schicken, hierauf ehr geandtworttet, sie schicken mir Zweene, darauf ihn Gertner zu Vier mahlen einen doppelt schelmen gescholten, darauf ehr Geißler gesagt, so belibestu selbste ein Schelme, bis so lange du mich zu einen machest, darauf ihn Gertner mit einer Zinerne Kan auf die rechte Handt Vnd einen fing. enzwej geschlag.n, darbej geweßen Michell Scholze, Vnd der altten Merten Krezell gewesener Hofe becke.
+
+
+Example 84
+English:
+Hockenborn and Christoff Ressell say: that they complain on behalf of the community. Response of the ville elders: This did not occur, also they could not name any person. This did not occur. The village elders had said, if he regarded them as doing wrong to the community, or dealing in a villainous way, he himself must be such a one. Jacob Pfohln admits that he challenged him, but rather said, thou mightest go out and lay sticks. Pfohl says that Hockenborn calls everyone a ditch-ox, but Hockenborn can name no-one. Hockenbornen is sentenced to make an apology to the village elders, and concerning this to go into prison, which was thus fulfilled.
+
+Translation to Early Modern Bohemian German:
+Sagen hockenborn Vndt Christoff Ressell, das sie an stat der gemaine Klagen. R. Eltesten sey nit geschehen, könne auch kein Person namhaftig machen. Welchs nit geschihet. die Eltesten hette gsagt, ob er sie dafür ansehen, das sy der gmeine Vnrecht thetten, oder schelmisch handeltenn, so muste er selber ein solcher sein. Jacob Pfohn gestehets das er ihn herauß gefoderet, sond.n gesagt, du möchtst herauß gehen worden Streck legen. Pfohl sagt hockenborn hiesse ein Jden ein graben ochsen, hockenborn aber kan keinen Namhaftig machen. Hockenbornen ZuerKennet, den Eltesten ein Abbitt Zue thuen, Vndt hieuber in gefengniß zu gehen, welches also Vollzogen.
+
+
+Example 85
+English:
+Since Heinrich Feuerbach, Georg Brendel, and Hans Blumberg, recently at Sigmund Seubeilich's wedding wickedly and without warning beat up the lord his grace's servant, Nicol, for this reason the lord his grace took them into punishment, that they firstly properly apologized to the servant, afterwards were punished with the lowest tower for 3 days, and released from it that each of them names a pledge on pain of 100 Schocks that he will go on the tramp following his craft in foreign parts for three years from today, for Heinrich Feierbach the pledge is Melchior Brugkner, for Georg Brendel his father Georg Brendel, for Hans Blumberg his father Paul Blumberg, signed 9 Dec 1595.
+
+Translation to Early Modern Bohemian German:
+Demnach heinrich feuerbach Georg Brendel, Hans Blumberg am nehren an Sigmund Seubeiliches hochzeitt des herrn S. G. Knecht, Nicoln Vnuorwarnetter sachen mitt fausten Vbel abgeschlagen, derhalben der her S. G. sie in straffe eingenommen das sie erstlich solches den Knecht simlich abgebotten, nachmalen mitt dem Vndersten Thurm drey taglang gestraffet vnd deß entledigett das ein ieder burgen gesatz bey vorlust 100 sß von dato an drey Jahrlang in der frembde seinem hand wergk nach zu wandern fur heinrich feierbach ist burge Melchior Brugkner, für Georg Brendel sein Vater Georg Brendel fur hans Blumberg sein Vater Paul Blumberg Signatum den 9 decemb Ao 1595.
+
+
+Example 86
+English:
+Since he improperly insulted in his honour the lord his grace's sworn mining-master, Christoff Guetkessen, without any blame and cause, untruthfully, out of anger and zealous feelings, from hearsay, and well deserved to be proceeded against with all severity of the law, but the lord his grace, after petition rendered, took him into imprisonment and upon his lord's pleading had him released again upon sufficient pledgeship, as follows, that he shall never think of holding the imprisonment in future in anger against the manor or against those appertaining to it and inhabiting it, or permit anyone to do this on his behalf, secondly that henceforth at all times he shall behave peacefully toward the mining-master and leave him unpushed and untouched, and in all ways unmolested; and thirdly he shall be obliged to settle up in the next few days with the mining-master on account of the expenses into which he led him, on pain of losing 100 Schocks, for which there entered into pledgeship, Christoff Schultess village headman in Haindorf and Old Paul Newman there, also Georg Scheffer and Samuel Mehr from Meffersdorf and Hans Mentzel from Hermsdorf, signed 2 Mar 1587
+
+Translation to Early Modern Bohemian German:
+Demnach er des herrn S. G: geschwornen berckmeister Christof guetkeßen, ohn alle schuldt vnd vrsach verwarhaffiger weise, auß zorn vnd eiferigem gemütte, von hören sagen an seinem ehren Zur vngebühre geschmehet, vnd das mit scharff der rechten gegen ihme vorfahren wurde, wol vordiehnet, der herr S. G.: aber nach gethaner AufPiedt ihnen derenthalben in gefengliche hafft einnehmen vnd auff seines herrn furPiett wiederumb derselben auf gnugsame burgschafft entledigen lassen, dieser gestaldt also das er der gefengniß nuhn noch nimmermehr gegen der herrschaft oder derselben zuegethane vnd Inwohner, zu eifern gedencke, oder Jemenden solches von seines wegen zu thun verstatte zum andern sich hinfuro allezeit gegen dem bergmaister friedlich vorhalte vnd ihnen nit allein vnbedranget vnnd vngerieret, sondern auch in allewege vngeschmiehet lasse, zum dritten, sol er sich mit dem berckmaister wegen der vnkosten, darein er ihnen gefürt, Nota vnd was sonst. Inn dieser sachen mehr vor vnkosten vndt zerung seindt aufgelaufen, das negsten tages abzufinden schuldig sein, bej vorlust 100 schock, darfur sich in burgschafft eingelassen, Christof schulteß, gerichtshalter zue haindorff vnd der alte Paul Neuman daselbst, dan Georg scheffer vnd Samuel Mehr von Mefferßdorf vnd hans mentzel von hermßdorff, Signatum den 2 Martij Ao 87.
+
+
+Example 87
+English:
+Since they attacked each other with defamatory words, they were brought to agreement in the manorial court, that if in future they lean toward each other again in the least, and shall be caught, each shall pay the manor her grace 50 Schocks in fine, pledges are for Jörge Buchelt, Christoff Paul from Lusdorff, for the village headman Martz Buchelt, and Jacob Streit, from there, signed 5 Mar 1605.
+
+Translation to Early Modern Bohemian German:
+Demnach sie Ein ander mit Ehrrürigen wortten Angegrieffen, sint sie Im Ampt Verglichen Worden, das wan Kunfftig sie sich gegen Ain And. wiederumb mit dem wenigsten Auflehnen, Vnd Vergreiffen soll ein Jed. der herrschafft J. G. 50 sß Zur straff erleg., sint Pürgen furge Jörge Buchelt., Christoff Paul Von lusdorff, fur den Scholz Martz buchelt, vnd Jacob streit, daselbsten, Signat: den 5 Martij Ao p 1605
+
+
+Example 88
+English:
+Caspar Walther and Gregor Koler, since in the grove behind Raspenau they lit an old charcoal-yard, and stubbornly let the fire get into the lord his grace's bush, so that great damage occurred to his grace's wood, but because the lord his grace was supposed to travel away immediately and did not hold a hearing on this case, therefore they were released on guarantors, as follows, that they will report back when summoned, on pain of 10 Schocks, pledges, Jacob Sachs forge-master, Gregor Koeler the Younger, Martin Krause the charcoaler, signed Friedland, 3 Jun 1590
+
+Translation to Early Modern Bohemian German:
+Caspar Walther vnd Gregor Koler, demnach sie am Hain Hinter Raspenau ein Alten Kohlhoffe angezündt, Vnnd das Feuer Mutwilliger weise in des herrn S. G. Pusch kommen lassen, damit S. G. grosser schaden am holz beschehehn Weil aber der herr S. G. gleich verraisen sollen Vnd solche sachen in Verhör nit genommen, Als sindt sie Zue Purg. ausgeben, dergestalt das sie sich wieder, wan sie gefordert, gestellen sollen, bei d. Peen 10. sß. Purgen Jacob Sachs Hannebermaister, Gregor Köler der Jung., Martin Krause d. Köler, Signatum Friedlandt, den 3 Junij Ao 90.
+
+
+Example 89
+English:
+Moenich's wife/widow complained against the current demesne-farm foreman, that he injured her in the village court with a beer glass in the arm, and threw the beer-vessel into her little girl's face, so that she almost fell into unconsciousness; but the demesne-farm foreman replies that when he ordered her Moenich's wife/widow to do the demesne-work, she gave him all sorts of loose words, and attacked his honour, whereupon he could not contain himself for anger, and had to grab her in this way, but when this conduct was deeply researched and investigated by the village headman and jurymen who were present, the case turned out to be otherwise, that the said Moenich's wife/widow accused him demesne-farm foreman of all sorts of unfairness during this conflict, which then also after further investigation, was confirmed and admitted by village headman and jurymen themselves, in truth thus behaved, namely firstly that with the manorial draft animals, the demesne-farm foreman carted the cut-down wood he had purchased for his own utility to Seydenberg to the market, also sowed certain tenanted fields probably with manorial seed-grain and nocturnally cultivated it with the said draft-animals; secondly for some five days and nights provided with manorial fodder one peasant from Ruckersdorf who likewise carted his wood to market; Thirdly carted away the hay from a pasture beside the large pond in Tzschirnhaus and had it sold for his own utility. fourthly on 5 Schocks of winter-grain on the tenant fields produced without the summer grain of barley and oats, in addition he probably used manorial peasants, and on one occasion got 17 Talers cash money out of several Schocks grain sold in the straw; and this is what is approximately known, and because the oft-mentioned Moenich's wife/widow said this to him demesne-farm foreman in front of the manorial court once again in his face, and he had to admit it in part, this is suspended and put off until it has been obediently reported to the gracious manor; the conflicts and acts of violence which took place are decided as follows, that because the demesne-farm foreman did not ask for peace from the village court that was present, but rather offended by being his own magistrate, noticeably wounded the Moenich's wife/widow and threw his glass at her and also the beer vessel at her little daughter, he demesne-farm foreman to begin with had to perform a proper apology to Moenich's wife/widow, and cecondly he will pay her for her pain 2 Meissen Schocks and pay for any expenditures on healer or bathmaster wages, and finally they are warned on pain of 5 Schocks manorial fine not to think of this any more on either side or pursue it. Because the above-mentioned former demesne-farm foreman Christoph Lindner in Tzschirnhause, otherwise dwelling in Rueckersdorf, was inflicted with arrest on account of his crime, but escaped from it, and is now back again, therefore today there entered into pledgeship for him, Mathess Ressel sworn-man, and his brother Hans Lindener, both from Rueckersdorf, to deliver him to the count's manorial court upon demand at any time, on pain of losing 50 Schocks inevitably as a fine; because also the gracious manorial authority has reserved the right to punish him on account of his crime.
+
+Translation to Early Modern Bohemian German:
+Es hat die Mönichin den ietzigen Voigt beklaget, das Er Sie bey den Gerichten mit Einem bier glaß an arme wundt, Vndt ihr mägdel mit dem bierfaasel über das gesicht geworffen, das Sie fast in ohnmacht gefallen, der Voigt aber replicirt wie Er ihr der Mönichin die hoff arbeit gebotten, ihme alle leichtferttige wort gegeben, vnd an ehren angegrieffen, wormit Er Sich vor Zorn nicht erhalten Können, Vndt sich dergestalten vergreiffen müssen, wie aber denen Verhalt Vom beywesenden Scholtheßen Vndt geschornen gründlich. erforschet, Vndt examiniret, hat sich die sach Anderst erwießen, alß das obbesagte Mönichin ihn Voigt allerhandt verübte partitereyen unter deßen Zanckehändeln bezuchtiget, welche Sich dann Auch nach weiteren examen, so Scholthes v. geschworener auch selbste bestettiget Vndt Zugestanden, in der wahrheit also verhalten haben, Nembl. 1.im. das der Voigt mit dem Obriegkeitl. Zugvieh, das Zu seinem nütz. Er Kauffte schlag=holtz, naher Seydenberg Zum Margk Führen, Auch gewieße erPachte Äcker Vermuthlich. von Obriegkeitl. Saamen besäen v. mit ermeldtem Zugvieh nachtlicher weyle beschicken ließen, 2.do In Füfft tag Vndt nacht Einen Pauer Von Rückersdorff mit Obrig Keitl. futter Auß gehalten, der ebenfahles ihn sein holtz Zu Margke verführet. 3tio von Einer wießen nebst dem grossen teich Zu Tzschirnhaus, der hew wegführen v. Zu seinem nutz. verKauffen Laßen. 4.to. Auff 5 sß. wintergedreydicht auf den Pacht=Äckern gezeüget ohne das Sommer gedreydicht an gärsten u. hanter, Zu deme Er Obriegkeitl. Pawren muthmaasentl. verbrauchet, Vndt habe auf einmahl aus etzlich. Schock im stroh verKaufften gedreydicht in 17 thl. Paares geldt gelößet; Vnd dies ist was man Vngefehrde weis, Undt weilen öffters erregte Mönichin dieses ihme Voigt Vorm Ambte nochmahlen ins gesichte gesaget, v. Er solches Zum theil Zustehen müßen, ist dieses sambt der bestraffenden v. verüebten bluthrunst bies Zum gehorsamben referiren der gndl. herrschafft Suspendiret vndt verschoben worden; die Zanckereyen Vndt begangene gewaltthätigkeit folgend. gestalt decidiret word., Alß weylen der Voigt nicht die anwesende gerichten Zum frieden ersuchet, sondern Er freventlich selbsten sein eygener richter gewesen, die Mönichin mercklich. verwundes Vndt mit dem glase Sie als Ihr kleine tochter auch mit dem bier faäsel geworff., hat Er Voigt von Erst der Mönich. einen gebührenden abtrag thuen müßen, vndt Zum Andern Er Ihr Vor die schmertz. 2 sß Meiß. Vndt das auflauffende heyler: od. baader: lohn bezahlen woll, vnd letzlich dieses Keiner seits mehr Zu anten noch zueyffern seindt ver Pöenet per 5 sß Obriegkeitl.: Straffe. weiln Oben bemelt gewester Voigt Christoph Lindner Zu Tschirnhauße, sonsten Wohnhafft Zue Rückerßdorff, wegen seines Verbrechens mit Arreste beleget, darauß aber entgangen, Vnnd sich nun wieder eingefunden: Alß haben sich heutte dato Vor Ihne in Bürgschafft Eingelassen, Matheß Ressel sworn-menr, Vnnd dessen Bruder hanß Lindener beede von Rückersd: denselben auf des Gräffl.: Amptes iedesmahlieges begehren wieder Zu gestellen, bey Verlust. 50: sß. Vnnachleßiger straff, weiln auch die Gn: Obriegkeit. p. Ihro die Abstraffung seines Verbrechens halben Vor behalten.
+
+
+Example 90
+English:
+Hans Pargman was summoned into the manorial court and asked why he committed fornication with his maidservant in his widowed state. Admits that he made her pregnant around St John's Day, when he knitted rope in the barn the whole day, he lay himself down on the hay and the barn floor to sleep, then she fetched hay, laid herself down next to him and did not lay off him until she got her part. Elias Scholze's daughter Dorothea gives in answer, that although the first time it occurred on they hay floor, however he initiated the same several times, the second time she was summoned by him into the chamber, where it likewise occurred, then on one occasion on the ground when she had tried to carry the grain into the mill, admittedly he did not promise her anything, but rather when she resisted him, he said she was now his housewife.
+
+Translation to Early Modern Bohemian German:
+Hans Pargman ist ins Ambt erfordert worden, Vnd befraget, warumb ehr mit seiner magd in seinem wittwen Standt Vnzucht getrieben. bekenet, das ehr mit ihr Zufalle Komen Vmb Johanes Tag, do ehr in der schuene,?ins.: den ganzen Tag? Seile gestrickt hette sich aüff den hew Vnd scheune boden schlaffen gelegt, do hette sie hew geholet, Vnd wie sie ihnen sehen schlafen, hinwiederumb Zumb ander mahl hew geholet, sich neben ihnen gelegt Vnd nicht ehe?gstr. lohß??ins.: nacht? gelaßen, bis sie ihren Teil beKommen, Elias Scholzen Tochter dorothea giebet Zur andwrot,?gstr. sie? es wehre Zwahr Zumb ersten mahl auffm hew boden geschehen,?gstr. ehr? hette ehr aber ezliche mahl daßelbe ahngerichtet, Zumb andern mahl Wehre sie Von ihme in die Camer gefordert worden, do es gelichfals geschehen, dan ein mahl auff dem boden do sie hette das getreichicht in die mühle Tragen wollen, ehr hette Zwahr ihr nichts Zugesagt, Sond.n, wan sie sich gewiedert, hette ehr gesagt sie Wehre ahn itzo seine wirttin.
+
+
+Example 91
+English:
+The lord his grace commanded, because Friederich von Kyaw did not dissolve to his heart-beloved lady mother her grace within the proper period of time, and thus disrespected her, that Ernst von Faust, nicknamed Sturm, shall now really be set and installed into the farm which was mortgaged to him, signed on the above date.
+
+Translation to Early Modern Bohemian German:
+Der Her S. gn: hat anbeuohlen, weil Friederich Vonn Kyaw seiner herzliebsten Fraw Mutter Ihr Gn: consens in gebuhrender Frist nicht abgelöhset, denselb. also despectiret, das Ernst Von Faust Sturm genandt nunmehr wircklichen in das ihme Vorpfendete gut hiermit gesezet, Vnnd eingewiesen sein solle, Sig.m ut Supra.
+
+
+Example 92
+English:
+The manorial-court villages are commanded to help collect from Jitschin the brewing wheat required for the brewhouse here, bit by bit, in exchange for payment of 20 Kreuzers per bushels from the rents, however if they would like to get rid of this obligation and pay a specific sum of money per bushels into the rents for carting-wages, opinions about that will be collected concerning the bringing here of the wheat from Jitischin to the brewhouse here, the manorial-court villages have offered to collect the wheat from Titschin themselves in exchange for payment of 20 Kreuzers on the owing carting-wage out of the rents, concerning which on the next manorial court session a proper allocation between the draft-peasants and hand-peasants shall be made.
+
+Translation to Early Modern Bohemian German:
+Denen ambtsdörfern anbefohlen worden, den zu behuf hiesigen brewhaußes, von Nöthen habend. brew weizen, nach vnd nach von Thitschin abzuhohlen, gegen bezahlung 20. x. vom Schll. auß dem renthen zu helfen, wollen sie aber deßen entvbrigkeit sein vnd derthalber ein gewißes geld, von jedem Scheffel in die renthen weg. fuhrlohn bezahlen, so wolte man daher mainung dörb. warnehmen. Wegen anhero bringung des weizens, von gitschin auf hiesiges brewhauß habe sich die ambts dorfschaften erbothen, dem weizen selbsten abZuhohlen von gitschin, gegen nechsteinigung 20 x vom Schld.: fuhr lohn uß den renthen, derohalben uf Nechsten Ambtstag eine richtige eintheilung uf die fahr- vnd handbaur versteitiget werd. solle.
+
+
+Example 93
+English:
+Since an old widow called Schefer's widow in Priedlanz has died, and left behind the three children of her brother, but a small legacy, therefore her brother's children shall equally inherit according to the family tree, by which it shall remain, but because Jacob Posselt's wife/widow looked after her the old widow in her bodily weakness, which is known to the village headman there, she shall be issued with the bed-clothes and the other clothes which she wore on her body, and thus the female entitlements.
+
+Translation to Early Modern Bohemian German:
+Demnach ein alte wittibe die Scheferin genandt Zu Priedlanz Todes abgangen, Vnd ihrer drej gebrudere Kinder Vorlaßen, aber ein geringe Vorlaßenschafft, Als sollen ihrer gebrudere Kindern, nach dem Stam Zugleich Erben, darbej es also Vorbleiben solle, Weil aber die Jacob Poßelten, sie die alte wittibe in ihrer leibes schwachheit gewarttet, wie dan der Schultheßen daselben wißende, sol ihr das bett gewandt Vnd andere Kleider, so sie an ihrem leibe getragen, Vnd also die weibliche Gerechtigkeit abgevolget werden,
+
+
+Example 94
+English:
+Complains against the church superintendent, even though upon the command of the lord his grace the church accounts were taken down in June, and he was also issued with receipts concerning them, nevertheless after this time he was called by him a sack-thief, asks that he should either prove this or else call himself a sack-thief.
+
+Translation to Early Modern Bohemian German:
+Claget Vber den Süperintendenten, ob Zwahr auf beüehl des hern. S. Gn: die Kirchen rechnungen inn Julio ist abgenommen, ehr auch daruber quittiret, worden, so wehre ehr doch Von ihme nach deroselb. Zeit Vor einem Seckel diebt gescholtten, bittet ihme, daßelbe entweder darzuthun, oder thuet ihnen selbsten Vor einen Seckel dieb scheltten.
+
+
+Example 95
+English:
+The best garment, four sets of coach equipment, two heaven-carts, the grain which was present at the time of the death, the father's seal a ring with a Tinckes, a floris bracelet, a florin chain of 50 ducats, a silver tankard, two rose-nobles, four silver spoons which belong to the minor, two riding-clubs, two cart-horses, additionally to each a praying-bed, to cart away the boards which his grace left with the manor, several ladders. These named items he takes to himself which the lord's principal cannot permit. But how lacking the administration of the manor was is evidenced by the lacks which have been handed over. 2600. Taler The interest is passed over which von Schweinich. received, the corn as well as the Teinen he did not bring in; additionally, how he gave the oats is not set down; what the clerk guaranteed the wood and brush is also not stated; what wool was present, where it was sold to, additionally ram and small sheep, and also what rams were sold. Additionally how many beef animals, how much fodder, and how much cheese was sold, where the spun yarn and linen cloth was sold. 15 beef hides and 7 calfskins, where the geese, cap-hens and rent-hens got to. 14 corn-sacks, where these got to. Additionally much beer was drunk up in one year 21 quarters and yet there was no court-householding, and on top of this 13 Talers worth of beer was bought, the second year for 11 Talers, per malter of wheat 7 quarters was poured out, from Langwel 1 1/2 Talers was redeemed, many almonds went on hinds, the buildings were let fall in so that one cannot walk, stand or lie in them dry, what he was supposed to pay did not occur, firstly to the church in Engelsdorff on 200. Crossed-B the arrears of interest, to old Ursel her wages, then Schweßein the outstanding interest, Friederich. For shingles on 200 Talers the interest. Arrears of inheritance-payments concerning the bought-out peasant farm Vrsula the maidservant, the Silberschneidern he is supposed to have paid 34 Talers. But she is still dunning for more than 100 Talers. Now because the brothers find themselves very much burdened by this, they ask his grace for help.
+
+Translation to Early Modern Bohemian German:
+Das beste Kleid, Vier Kutzscher geschir Zwene himmel wägen, das getreidicht so bej absterb. Vorhanden gewesen, des vaters Petschierung Ein ring mit einen Tinckes Ein gulden Armbandt, eine gulden Kähte Von.50. ducaten, Eine Silberne Kanne, Zwene Rosenobel, Vier Silberne löffel so den Vnmundig. Zustendig, Zwene reidtKlöppen, Zwej wagen pferden Item. einem ieden ein gebet bette, die brehter hinweg führen laßen, so Ihr. Gn: bej dem gutte gelaßen, ezliche letter. dieße benandte stücke Zeicht ehr Zu sich, welches die h. Principalen nicht gestatten könen. Wie mangelhafftig aber die administration des guts sej, bezeugen die Vbergeben mängeln. 2600. Tal. ist der Zins Vbergangen, so der Von Schweinich. bekommen, das Korn wie Teinen hatt ehr nicht eingebracht, Item, wie ehr dem haber geben, Ist nicht gesezt, was dem Schreyber dem holtz, vnd reysicht gewehret, auch nicht gesez. was vor wolle vorhanden gewesen wohin die vorkaufft. Item Schöpß Vnd Schaffelle, V. auch was Von Schöpßen Vorkaufft. Item wieuiel Rindtviche, futter, Vnd Käse v.kaufft wo hin das gespinste Vnd leimet Vorkaufft..15. Rindtleder Vnd.7. Kalbfelle, wohin, die gänße Kaphäne vnd Zins huner. hin kommen.14. Kornsäcke, wohin dießselb. Kämmen. Item. ist viel bier aus getruncken worden in einem ihar.21. viertel vnnd Kein hoffhaltung aber geweßen ist, Vnd.13. Tal. hierieber bier erkaufft, das ander ihar Vmb.11. Tal. auff ein malder weizen.7. quarters gegoßen, aus largwel.1 12/. Taler gelöhßet, viel mandel auff hinde gangen, die gebeide eingehen laßen, das man nicht Trocken darinnen geh., stehen, noch liegen Kan, was ehr hat sollen zahlen, ist nicht gesch., erstlich. der Kirchen Zu Engelsdorff von.200. crossed-bo den hinderstellig. zins, der alten Vrsel ihr lohn, dan Schweßein die hinderstellig. zinse, Friederich. vor Schindell Von.200. Tal. die Interesse. hinderstellig Erbegeld weg. des auserkaufften Pauerguts Vrsula der magdt, der Silbergschneidern wil ehr gezahlet hab..34. Tal. sie mahnet aber nocht Vber.100. Tal. weil dan die bruder sich dießerhalb sehr beschwertt befinden, bitten Ihr Gn. Vmb hulff.
+
+
+Example 96
+English:
+The Ulrichs say that Christof Nicht owes them 5 Schocks 11 Kreuzer for oats for the last 2.5 years, which they have not been able to obtain, despite frequent warning, they ask for help. Christof Nicht admits the debt, he says that he can prove with the village headman in Ruckersdorf that in the village court he warned Hans Kraussen the elder, who is indebted to him, to pay them, Krausse also agreed in the village court to do this. Sentence: Nicht shall pay half of these 5 Schocks 11 Kreuzer to the Ulrichs on Easter and not let further complaint be made against him, in order to avoid prison; the Ulrichs were satisfied with this.
+
+Translation to Early Modern Bohemian German:
+Die Vlrich sagen Christof Nicht sey Ihnen Von drittehalb Jahren hero 5 sß 11 Kreuzer Vor haber schuldig, die hetten Sie nicht er langen Konnen Vngeachtet Vielfeltiges mahnens bitten Vmb hülffe. Christof Nicht gestehet der schuldt spricht habe es mitt dem Scholz. Zu Rückersdorf Zubeweißen dz er bey gerichten Sie Zu Zahlen hanß Kraußen den alten, welcher Ihme schuldig angemahnet, Krauße auch solches Zuthun gerichtlich. Zugesagt. Sententia Nicht sol auf Ostern die Vrlich dieser 5 sß Vnd 11 Kreuzer halben Zahlen, Vnd ferner nicht Vber Sich clag. laßen, bey Vermeidung des gefengnuß, die Vlriche mit diesem Zufrieden gewesen,
+
+
+Example 97
+English:
+Joerg Nerger, since and when he, together with his fellows, Joerg Streit, Bartel Streit and Hans Weisse, carted away 6 piles of wood from the Wittig border (between Joerg Dobschizen in Sade Walda and then between the Hainersdorf), for this reason they were taken into imprisonment and released again on pledges, as follows, and thus, that tomorrow they shall report to Dobschizen and make things right with him, on pain of 20 Schocks, for which are pledges, Martin Schmidter from Hainersdorf, signed Friedland 3 Dec 1591.
+
+Translation to Early Modern Bohemian German:
+Jörg Nerger, demnach Vnd Alß er sambt seinen gesellen Jörg streit, Bartel streit Vnd hans Weiße 6 lochtern holz Von der Wittigen gränz (zwischen Jörg dobschizen Zu Sade walde vnd dan Zwischen den hainerßdorff) weg gefuhret, sint sie derenthalb. Gefenglich eingezogen Vnd Zu Purgen wiederumb außgeben der gestald Vnd Also das sie sich Zu döbschizen des Morgenden tages Vor fugen Vnd mit ihm Richtigkait machen sollen bey der Peen 20 sß dafur Pürge Martin schmidter Von hainersdorff, Signatum Friedtland den 3 decembris A. 91.
+
+
+Example 98
+English:
+Christoph Neuman village headman in Göhe brings in forward in complaint that in the already past autumn a year ago, he was commanded by the manorial court to cut down several trunks of wood from the abandoned farms which belong to the manorial authority, and to have them used for for the repair of the Göhe mill, now when he village headman wanted to carry this out, and for this reason had 4 trunks cut down on Hanß Girt's abandoned farm, his brother Michel Neuman, who is enjoying this farm for the taxes and dues on it, came up and threatened him and asked what he was doing lifting the wood from his property, who had commanded it, after all he was not butchering-out; now despite the fact that he the village headman reported that he had the command from the manorial court, nevertheless he was not willing to live in peace with this, but rather ran away from him in anger, and threatened him; that same evening he also went to the miller of Goehe and said that he should go to his brother and say to him, he should leave his property in peace, he would not be safe from him on road and path, he would strike him dead wherever he met him, and when the next day early the miller went to him Michael Neuman his brother, and asked once again whether he still admitted what he had said to him the previous evening, he had answered, yes, and that he should go and tell it to his brother. Michel Neuman somewhat admits this matter, but not thus totally how his brother had complained, also the miller had probably spoken somewhat too much in this matter, it had not thus been meant wickedly.
+
+Translation to Early Modern Bohemian German:
+Christoph Neuman Richter Zum Göhe, bringt Clagende Vor, daß in deme bereits Verstrichenen herbst Vorm Jahre, Von dem Abmt an befohlen worden were, Zu Anrichtung der Göher Mühlen etzliche stämmell holtz Von denen Wüsten, der Obriegkeit zu behörigen Güttern, Hawen, Vndt dahin verwenden zu lassen, Vndt er Richter nun solches Verrichten wollen, dahero auf hanß Girts wüsten Gutt 4. stämmell abhawen laßen, Were sein bruder Michel Neuman, alß welcher dießes Gutt Vmb die Gaben genißet, dar Zu Kommen, ihme gedrohet Vndt gemeldet, waß er auf dem seinigen daß holz abhiebe, wers befohlen hette, Metzte er doch nicht auß, Vngeacht nun er Richter berichtet, daß er den befehl hette, Von dem Ambt, hat er doch nicht damit Zu frieden leben wollen, sondern im Zorn davon gelauffen, Vndt ihme gedrohet, selbigen Abents Were er auch Zu denn Göher Müller Kommen, Vndt gesaget, er solle Zu seinem bruder gehen, ihme sagen, er solle ihme daß seinige mit ruhe laßen, auf Wegen Vnd stege soll er Vor ihme nicht sicher sein, wolte ihn todt schlagen, wo er ihn antreffen thue, Vndt alß der Müller deß Andern tages früe Zu Ihme Michel Neumanen seinen bruder gangen, Vndt nachmahlen befragt, ob er noch der reden gestendig sej, die er gestern Abents ihme gemeldet hette, hette ers mit Ja beanthwordtet, Vndt daß er hin gehen, Vndt solches seinem brud. sagen solle. Michel Neuman gestehet in etwaß dieße sache, doch nicht also gentzlichen, wie ihn sein bruder beklagt, auch der Müller wohl etwaß Zu viel in diesem geredet hette, were also böß nicht gemeinet
+
+
+Example 99
+English:
+Since on his own decision, without prior knowledge of the manorial court and the village court, he build a new gate on the commons, and hereby built across the village headman's carting-path as it has been maintained since ancient times and for ever; after complaint which occurred he was instructed to tear down his new construction by dawn, by fine to the manor of 10 Schocks, and to maintain the old gate properly as occurred in olden times, so that also they both, he and the village headman, live peaceably with one another, and neither causes the other wanton injury, each named pledges at 30 Schocks the village headman for himself Jorge Posselt, Ihrentraut, Christof Peseler in Priedlantz, dated 18 July 1606.
+
+Translation to Early Modern Bohemian German:
+Demnach er Aigen mechtiger Weise, Ohne Uorwissen des Ampt Vnd der Gerichten, ein New thor Auff die dorff friede gebawet, Vnd hiemit dem Scholtzen seinen fahr weg wie der vor alters hero Je Vnd Alzeit gehalten worden Vor bawet, Ist Ihme Nach beschehener Klag Aufferleget Worden sein Newen baw, bey Sonneschein hinweg Zu reissen, bey straffe der herrschafft Zehen schock, Vnd dz Alte thor richtig Zuehalten Wie Vor Alters beschehen, damit sie Auch beyde er Und der Schulteß mit einander friedlich leben, Vnd keiner dem Andern Muttwilliger Weise schaden Zue füegen, hat ein Jeder bürgen gesatzet Auff 30 sß der Schulteß für sich Jorge Posselt, Ihrentraut, Christof Peseler Zue Priedlantz, Actum den 18 July Ao 1606
+
+
+Example 100
+English:
+Görge Nicht complains against Hans Schiedeln, that last Wednesday evening the latter came into his house, brought fiddling-people, during this he came home, by accident pushed over a pot on the table, thereupon he went to bed, afterwards Schiedell came, ran in the door, and stabbed, challenged him out. He made this known to the village headman, the village headman came there with an elder, and looked, during which Schiedell with his weapon had hacked and stabbed in the farmyard and in the parlour round about. village headman states, he came there, Schiedel had screamed at several in the farmyard, you villains you thieves why are you standing there, you are lying in wait for me. village headman ordered peace to Schiedell on behalf of the manor and village court. The following evening Schiedel came into the village court with his weapons, cocked his gun, at nighttime, would not give way to anyone, afterwards lay in wait for Görge Nichten and said, where is he staying, will he not come? The village headman came there, spoke to Schiedeln, hereupon Schiedel went away. Schiedell responds: Nicht had the previous day invited him to his wedding, hereupon he had thought that he would not be against it, if he went in to his mother, therefore he took a fiddler with him home, afterwards Görge Nicht came home, struck with his weapon into the pots. Had said that no-one ought to have come into his house, courting. Upon this he went to bed, afterwards Schiedell went after him, challenged Nichten out, stood in the chamber-door and pushed but did not run at him, admits that as he Schiedell was going out, the village headman together with his people were standing in the farmyard, waited for him with fenceposts. village headman denies this. Schiedell admits that he cocked his gun, when he went home. Additionally that he lay in wait. Admits it. He had said where art thou staying you and you, I will pay him by moonlight. Conclusion: the affair is brought to agreement through apology, pledged in future to live peaceably with one another.
+
+Translation to Early Modern Bohemian German:
+Görge Nicht Klagt Vber Hans Schiedeln, dz derselbe an Vorgangener Mitwoch abendts in sein hauß kommen, fiedelleut bracht p Vnter deß er heim kommen, Vngefehr auffn tisch ein topf Vmbgestossen, darauff er zu bette gangen, Schiedell hernach kommen in dj thur gelauffen, Vndt gestochen, ihn außgefodertt. Solchs den Scholze zu wissen gethan, Scholz dazu mit eim Eltesten kommen, Vnd gesehen wobej Schiedell mit der wehre auffm hoff vndt in der Stuben herumb gehawen Vndt gestochen. Schulteß asserit, Er sey darzue kommen, hette Schiedell auff ezliche auffm hoff geschrien, Ihr schelmen ihr diebe was stehet ihr da, p ihr lawet auff mich. Schulteß dem Schiedell an stat der herrschafft Vndt Gerichte, friede gebotten. Schiedel folgendts Abendts in die Gerichte kommen mit seinen Gewehren, dj Buchse gespannet, bey der Nacht. Auff niemandt nichts geben wollen, hernach auff des Görge Nichten gelauret, Vnd gesagt, wa bleibt der, wiel er nit kommen? der Scholz darzu kommen, Schiedeln angeredt, hierauff Schiedel weggang. R.s.det Schiedell, Nicht hette ihn des tags zu Vorn zu seinen Ehen gebeten, hierauff hett er gemaint, wurde ihm nit zu wieder sein, da er zu seiner Mutter hereingiengen Also hette er ein fiedler mit heim genommen, hinach Görge Nicht heimkommen, mit seiner wehr in dj töpffe geschlagen. Hette gesagt Niemandt hette durffen in sein hauß gehen, freyen p Auff diß er zu bette gang. Schiedell hernach gang. Nichten auß gefodertt, in dj Kammerthur gestehen, Vndt gestossen, aber nit auffgelauffen, gestehets Als er Schiedell heraußgang., der Scholz sambt den seinen auffm hoff gestanden, mit Zaumpföhler p auff ihn gewartet. Negat Scholz. Schiedell gestehet, dz er sein Rohr gespannet, da er heimgang. Mehr dz er gelauert. gestehets. hette gesagt, wo bleiebtu der Vndt der, ich wiel ihn bezahlen bey Monschein. Conclusum: dj sach durch Abbitt Vortragen, Vorbürget küunftig gegeneinander friedlich zu leben.
+
+
+Example 101
+English:
+Christoff Tippelt from Oschütz complains against Jacob Hausmann from Olbersdorf, reporting that he exchanged a horse for an ox with him Hausmann 2 years ago, and he was supposed to add 3 Talers, but when he got the ox home to Oschütz, and had it for 8 days, he found the ox was lacking and had a bad heart, therefore asked Hausman to let him off some of the promised addition of 3 Reichstalers, which took place and it remained with 1 1/2 Reichstalers, on this he paid Hausmann 1 Reichstaler 2 Gg, but when soon afterwards the ox died of its ills, he asked Hausmann in a friendly way to give up the remained 10 Gg, which he would not do, but rather insisted on 3 quarters of vetch to be delivered to him Hausmann, and it remained so for more than a year, when yesterday he wanted to go from Oschütz to Friedland, and had 24 cans brandywine with him, Hausmann met him between Ditterspach and Olbersdorf, and took the brandywine away from him on the open road, saying that if he would not pay him he would demand the 2 Reichstalers fully from him, he had spoken to his lord domain-captain here about it that he should be paid by me any way he could but because this is counter to all justice and he Hausmann is still using the horse which he obtained from him, he asks the manorial court to compel Hausman to return the brandywine he took from him. Interim decision: a manorial court command shall be issued to the village headman of Olbersdorf to deliver the brandywine of Jacob Hausmann into the village court, where it shall be stored until the domain-captain here comes back, whereupon judgement shall take place. On 9 April at the second session-day, Jacob Hausmann appears, denies that he ever thought of any words of the lord domain-captain, admits that he exchanged with Tippelt a horse for an ox, and each party had 4 weeks to go back on it and after that remain by it, Tippelt was supposed to pay him 3 Talers, but when the ox was soon found bad, he let him off 8 Gg on the 3 Reichstalers, then received 1 Reichstaler 2 Gg and asked for payment of the rest, in replacement of the 3 Reichstalers, 3 quarters, but could not get either money or vetch from Tippelt, now when he could get neither money nor vetch, when Tippelt some days ago wanted to go from Oschütz to Friedland and met his boy between Olbersdorf and Dittersbach, asked him whether his father was coming after, and when he learned that he was nearby, he Tippelt went from the road into the bush and set down the brandywine, whereupon he went after him and met him, and asked Christoff why are you running away from my debt, and because the brandywine was lying there beside them he took it and delivered it to the village court where it still is. Decision: village headman of Olbersdorf shall give Christoff Tippelt back his brandywine, conversely he Tippelt shall give Jacob Hausmann 1 Reichstaler in complete payment.
+
+Translation to Early Modern Bohemian German:
+Christoff Tippelt Von Oschütz Klaget contra Jacob Hausmann Von Olbersdorff berichtende, dz er ihme hausmann Von Zweyen Jahren ein Pferdt auf einer Ochsen Verhandelt, Vndt er 3 thlr Zugeben sollen, als er aber den Ochsen nach haus auf Oschütz gebracht, Undt ein 8 tage gehabt, hette er den Ochsen mangelhafft Vndt hertzschlechtig befunden, dannenhero den hausmann gebetten, an der Versprochenen Zugaabe der 3 Rthlr ihm wz nachZulassen, welches auch beschehen Vndt bey 1 1/2 Rthlr Verbliben, Warauff Warauff auch den hausmann einen Rthlr 2gg.: endtrichtet, als aber balden darauff der Ochs an dem gehabten Mangel gestorben, hette er den hausmann freündtl.: angelanget den rest d. 10 gg.: nachZusehen, so er nicht thuun Wollen, sondern bey 3 Viert.: Wügkhen ihme hausmann Zuliffern verbliben, Vndt darmit bis vbers Jahr angestanden, in dehme er gestern Von Oschütz nacher Fridlandt gehen Wollen, Vndt 24 Seidl. brandtWein bey ßich gehabt, hette ihn d. hausmann Zwischen ditterspach Vndt Olbersdorff angetroffen, Vndt ihme auf freyer Strassen dem brandtWein genomen, Vorgebende, Weilln er ihme mit d. bezalung nicht innen gehalten, er alles Undt die 2 Rthlr Vor Voll an ihme nun Praetendiren thette, hette es mit seinen h. haubtmann allhier schon abgeredet, dz er sich Von mier bezahlet machen ßolte Wie er Khendte Vndt mecht, Weilln nun ßolches wid. alle billigkheit, Vndt er hausmann dz Pferd, ßo er von ihme bekhomen, noch in gebrauch hette, bette er dz Gräffl.: Ambt, den hausmann dahin Zu haltne, dz er ihme den abgenomenen brandWein restituiren müsse. p. Interims bescheid: Es ßolle an den Scholtzen aufm Olbersdorff ein Ambtbefelch ergehen, von dem Jacob hausmann dem brandtwein in die gerichte Zu thuun, Undt so lang Woll verwahret Zubehalten bis Zu ankunfft hiesigen h. haubtmanns als dann Wurde Weiters ergehen wz rechtens ist. p. den 9 Aprill bey d. andern Tagefarth erscheinet Jacob hausmann, negiret beständig, dz er Khein einiges Wort des herrn haubtmanns Wegen gedacht hette, sonsten gestehet er dz er den Tippelt ein Pferd auf einen Ochsen abgehandelt, Vndt Zum Wandelkauff Vier Wochen beederseits beliebet, Vndt hernachmalln dabey Verbliben, dz der Tippelt ihme 3 thlr nachgeben ßollen, als aber der Ochs nicht Lang hernach Wandelbar befunden, auch balden darauf Verregkhet, hette er ihme an den 3 Rthlr 8 gg nachgesehen, dan 1 Rthlr 2 gg empfangen, Vndt Vor dz übrige Zu ersetzung 3 Rthlr 3 Viert. Zunahmen sich annerbethen, aber Von dem Tippelt nichts Wed. gelt noch Wigkhen bekhomen Khönnen, als er Tippelt nun Vergangenen tagen Von Oschütz nach Fridlandt gewolt, Unndt Zwischen Olbersdorff Unndt ditterspach seinen Jungen angetroffen, selbigen befraget, Khombt dem Vatter hernach, Vndt da er Vernamb, dz er Allernegts Wehre, seye er Tippelt Von der Strassen in die Püsche gegangen, Vndt dem brandtwein von sich geßetzet, darauff er nachgangen, Vndt ihme angetroffen, gefraget, Christoff Warumb thust du meiner schuldt halben endtlauffen, Vndt Weilln d. brandtwein beyseits geßetzt gewesen, hette er ßolchen Zu sich genomen, Vndt den gerichten eingeliffert allwo er noch sye, Vndt dises alles redet er mit grundt d. Waarheit. Decisio. Schulthes Zu Olbersdorff, ßoll dem Christoff Tippelt dem brandtWein Vnversehrt Zustellen herentgegen er Tippelt dem Jacob hausmann Zu völliger befridigung des noch ausstehendes Restes Einen Rthlr geben, Vndt selben ferner Klaglos halten Warmit ßich diße tagefarth geendet, Geschehen im Jahr Vndt Taag Wie oben p.
+
+
+Example 102
+English:
+The bathmaster says and complains that he took on Matz Schmiede's little son to heal, who had broken a leg, and had agreed with the father 7 Talers healing fee, but the parents did not take responsibility for the child but rather let him fall several times so that the leg became crooked again, he the bathmaster had not wanted to heal this for the old fee, the father asked him just to heal the child, he would certainly agree with him, now he does not admit this promise, but because he spent a lot on medicaments and desires another 7 Talers from him, Schmidt did not offer him any more than 1 Talers, asks for help from the manorial court. Matz Schmiedt excuses himself with his lack of means, would gladly give more but cannot manage it, previously he had to give up everything in order to be able to pay the bathmaster 7 Talers, does not admit that he promised to give the bathmaster a bigger fee.
+
+Translation to Early Modern Bohemian German:
+Der bader sagett Vnd clagett dz er Matz Schmiedes Sönlin welches ein bein gebrochen Zu heilen angenommen, Vnd mit dem Vater Vmb 7 thlr heil lohn eines worden, die eltern hette aber des Kindes nit wahr genommen Sondern etlich mahl fallen Laßen dz dz bein wieder Verrückt worden, hett er der bader solches Vmb dz alte lohn nit heilen wollen, hette der Vatter gebeten, wolte das Kindt nur heilen, wolte Sich mit Ihme wol Verlgiech. itzo gestünde er solche Zusage nicht, weil er aber Viel auf erz ney gewendett, Vnd noch 7 thlr Von Ihme begerett, hette Schmidt nichts mehr als 1 thlr Ihme geboten, bittet Vmb Ambtes hülffe. Matz Schmiedt entschuldiget Sich mit seinem Vnuormögen, wolte gern mehr geben Vermöchte es nicht, hette Vorhin alles begeben mußen, dz er dem bader die 7 thlr entrichten können, gestehet nicht dz er dem bader mehr lohn Zugeben Versprochen.
+
+
+Example 103
+English:
+Since the glebe-peasants, despite several agreements and decisions issued previously, have always behaved disobediently toward him the pastor in the carrying out of the services, and justly deserve punishment, but this one more time it shall in mercy be commuted for them, and henceforth they shall be obliged actually to comply with the agreement arranged by the manorial court on 6 May 1599 in all ways, and because the manure has hitherto piled up for several years, they shall cart this outwards in front of the Gold brook where the lord pastor wishes to have it, but what remains leftover from this up to 2 bushels or as much up to 1 bushel) they shall next autumn initially behind the Gold brook, and in future all years up to 1 bushel, namely either outwards at 1/2 and in autumn likewise at 1/2, or at that time annually at 1 entire bushel as the pastor wishes to have it with them, as far as the glebe extends, and in future comply with this, also not make any complaint or apply for any change, on pain of the fine previously set by the lord his grace, of 50 Schocks each, and they shall set pledges for this.
+
+Translation to Early Modern Bohemian German:
+Demnach die Wiedumbsbauren Vber ezliche biß anhero ergangne Vorträg Vndt Abschiede sich gegen ihnen Pfarrer mit Verrichtung der dienste alleZeit Vngehorsamblich Vorhalten, Vndt billiche straffe wol würdig, werden, doch soll es ihnen noch diß mals Zu ganden gewendet,, Vndt sie forthin schuldig sein, dem Vortrage der Ao. 99 des 6 May durchs Ampt aufgerichtet in allerdings nachzuleben, Vnd weil sich der Mist bis hero auf ezliche Jahr gehauffet, denselben diesen Außwerts vor der Goldtbach, wo ihn der herr Pfarrer hin haben wiel, was aber hie von Vbrig bliebe auff künftige Brach oder herbst zeit auff 2 scheffell oder so viel mit biß auß fur handen were 1 schll zu nechst hinter der goldtbach, Vndt kunftig alle Jahr auff ein scheffell, als entweder aus werts auff ein halben, vndt herbst zeit gleichs fals auff ein halben, oder In zu ienerZeit Jährlich auff ein ganzen schll wie es der Pfarrer bey ihnen möchte so weit die wiedmut sich erstrecht zu fuhren, Vndt hierunder ferner mit leben, auch klag. noch Vmb einige enderung anzuhaltten, bey zue vorn von dem herrn S. G. gesetzer Peen 50 sß einen Jeden zu erleg. Hiefür sich Bürglich einlassen sollen.
+
+
+Example 104
+English:
+Christoff Beyer complains about Hartman, that the latter in his absence struck his wife. Hartman responds that Beyer's children caused him damage, Beyer had it forbidden by his wife, Beyer's wife/widow came up to him and attacked him severely with words, called him a dissolute man, he called her back a dissolute sack, Beyer's wife/widow responds that the playing-kettle was Hartman's brother Hans' s, who gave it as a gift to her boy, she came to him in his farmyard and asked what her son had stolen from him, he Hartman told her to go away and pack herself off, ran into the house, grabbed a new oak-beam, and wanted to come in to her, and ran after her down in the garden, and struck her hard on the head, so that she was wounded down to the skull, she had to pay the bathmaster half a Taler for the first bandaging, and the bathmaster had to be paid 4 Talers doctor's fee. It was found that Bayer's wife/widow did wrongly, in that she did not go to the village court and complain when Hartman's wife accused her son of acting like a rogue, but rather ran after the husband in his house and farmyard, conversely Hartman did wrongly, in that he ran after her and struck her and injured her, which was also improper for him, therefore both made apology to each other, both were punished by the manor, both shall vow, the man for his wife and Hartman for himself, on pain of 50 Schocks fine for each of them, that they will present themselves upon further summoning, also Hartman shall repay the doctor's fee fully with the bathmaster, between today and Exaudi.
+
+Translation to Early Modern Bohemian German:
+Christoff Beyer Klagt Vber hartman, das derselb ihm in seines Abwesen sein Weib geschlagen, R.s.det hartman, des Beyers Kinder hetten ihm schaden gethan, hette es der Beyern durch sein weib lassen Vorbitten, Sey dj Beyeren hinauf Zu ihm kommen, vndt ihn mit worten hart zugesezt, Ihn ein losen Man geheissen, Er sie wiederumb ein losen Sach gescholten, R.s.d.t dj Beyerin, das Spillekeßel sey des hartmans Bruders hansen gewesen, der es ihrem Jung. geschenckt hette, were sie zu ihm in sein hoff kommen Vndt gfragt, was ihr Sohn ihme gstolen hette, Er hartman hette sie haissen weggehen sich packen, sey ins hauß gelauffen, hette ein newen Eydebalcken ergreiffen, auf sie nein gewolt, Vndt ihr drunten im garten nachgeeilet, Vndt hefttig aufn Kopf geschlagen, da sie würdthe worden, biß auf den hirnschedell hetten dem Bader Vom ersten Bande ein halben thaler geben mussen, dem Bader hette man müssen vier thaler Artzlohn geben. Befindet sich, die Bayern hat Vnrecht gethan, das sie nit Zu gerichten gang. Vndt geclagt, als des hartmans weib ihren Sohn schalckheit geziehen, sondern dem Man in seinem hause Vndt hoff vberlauffen, herkeg. hartman vnrecht gethan, das er ihr nachgeeilet, sie geschlag. Vndt beschädigt, welches ihme gleichsfals nit gebühret hette, Des vonlichem Bede einander ein Abbitt thuen, Seindt bede in der herrschafft Straffen, Sollen bede angeloben, dem man fürs weib, Vndt der hartman für sich bey 50 ss ein Jeder das sie sich auf fernner erforderung gestellen wollen, Auch hartman dem Bader das Artzlohn Vollendt richtig mache, zwischen heut Vndt Exaud.
+
+
+Example 105
+English:
+George Schroter from Neüdorf went to Hohenwalda to the beer, stepped in front of the table, and dunned Jacob Kotern at one point for a debt, and ultimately called him a beggar, thereupon the village headman pledged them, to prevent further trouble. But someone threw a wooden tankard, but they were not able to learn who it had been, hereupon George Schröter threw it back through the window.
+
+Translation to Early Modern Bohemian German:
+George Schroter Von Neüdorf ist nach hohewald.a Zumb bier Kommen, Vor dem Tisch getretten, Vnnd Jacob Kotern ettwan einer schuldt halben gemahnet, Vnnd ihnen lezlich.n einen bettler geheißen, darauf der schultze sie Zuuorhuttung ferner Vngelegenheit Vorburget. Es hette aber einer mitt einem holtzene Kenlein geworffen, hetten aber nicht erfahren Können wehr derselbe geweßen, Hierauf George Schröter durch das Fenster hinweiderumb geworffen.
+
+
+Example 106
+English:
+village headman complains against Jacob Pfohln, and the latter's servant, that he accused him of having ridden around on his and his servant's necks for a whole year, village headman often disappeared from one table to the other, the two Pfohl and Christoff Neuman had set at the village headman with many vain words, instructed Christoff Neuman, he should deliver himself into the village gaol, Neuman said, he sat previously in front in the village court, he had not wanted to render obedience.
+
+Translation to Early Modern Bohemian German:
+Schulteß klagt Vber Jacob pfohln, Vndt desselben Knecht, dz er ihn gezeihen, Er hette ihm vndt seinen Knecht ein ganz Jahr auffm halß herumb geritten, Schulteß offt gewich. von eine tische zum andern, die beide pfohl Vndt Christoff Neuman, mit vielen Vnnuzen wortten dem Schulzen Zugesezt, Christoff Neuman aufferelgt, er solle sich im Stock gestellen, Neuman gesagt, Er sesse Zue vorn in Gerichten, hat nit wollen gehorsame
+
+
+Example 107
+English:
+Old Teschner's widow is granted as a favour in the manorial court, that she may retain her farm, without ruination in fields, pastures and woods, for her eldest daughter, until the latter is betrothed, either until Whitsun or at longest until Martinmas this year.
+
+Translation to Early Modern Bohemian German:
+Der alten Teschnerin ist im Ampt Vorgunstet worden, ihr Gutt, ohne Vorwustung an Eckern, Wiesen, Vnndt wäldernn, ihren Eltesten tochter zu gutt zu behaltten, biß dieselbe Vorfreyet werden, entweder biß auff Pfingsten, oder auffs lengst biß zu Martinj diß Jahres. p.
+
+
+Example 108
+English:
+Since and after they set themselves against their hereditary lord Augstin von Khull, and did not want to perform any demesne-services obligations, for which reason upon von Kuehle's complaint, they were taken into imprisonment by the lord domain-captain and released again on pledges, as follows and thus, that when and at whatever time they shall be summoned they shall present themselves in here in the manorial court, on pain of 200 Schocks, for which is pledge, Martin Hoffman from Reichnaw, on pain of losing everything which he has within the religious house of Mariethal, signed Friedland castle 29 Sep 1593.
+
+Translation to Early Modern Bohemian German:
+Demnach vnnd Alß sie sich wieder ihren Erbherrn Augstin von Khull, gesatzt, Vnnd ihme Keine hoffe diensteleisten wollen, derohalben sint sie vom herr Hauptman Auf des von Kühles Klagen gefenglichen eingezogen Vnnd Zue Pürgens wieder Herauß geben, derogestalt vnnd Also, das sie sich, wan Vnd zu welcher zeit sie gefordert hero ins Ambt gestellen sollen bey der Peen 200 sßo dafür Pürge Martin Hoffman Von Reichnaw bey vorlust allem Was er Vnterm Stiefft Marienthal Hat, Signatum Aufm schlos Friedland den 29 Septemb. A.o 93
+
+
+Example 109
+English:
+Despite the fact that Friedrich Schöntag in Göhe, as can be seen on Fol 47, is supposed to pay 10 Schocks, nevertheless he is let off all but half of it, which he paid today, and was delivered to the rent-clerk, to enter it and reckon it up under receipts, Namely 5 florins 50 Kreuzers.
+
+Translation to Early Modern Bohemian German:
+Vngeachtet Friedrich Schöntag Zum Göhe, wie fol: 47. zu sehen 10: sßo. Straffe erlegen sollen, so ist ihme doch solche biß halben theil nachgesehen, die er dato erlegt, Vndt dem Renthsch.ber, solche bej den Renthen in Einnahmb Zu bringen, Vndt Zu verrechnen, Zu gestellet worden, nemblichen./. 5. f. 50. k.
+
+
+Example 110
+English:
+Since Justina, daughter of Hansen Weickertten in Olbersdorf, our gracious lord his grace's orphan was made pregnant by N. Gipschen in Merckersdorf, she is taken into imprisonment and released today, that when and at whatever time the lord his grace or his lord domain-captain summons her the pledges namely Herman Weickert in Einsiedel and Michel Burgkhart in Olbersdorf will and shall personally deliver, on pain of losing 50 Schocks, dated 8 Aug 1600.
+
+Translation to Early Modern Bohemian German:
+Demnach Justina hansen Weickertten vfm Olberßdorff tochter vnsers gnedigen Herrn S. G. waise von N. Gipschen Zu Marckerßdorf geschwengert ist sie gefenglich eingezogen, vnd dato entledigt das wan vnd sie welcher Zeit der herr S. G. oder der lord Hauptman sie erfordert die Burgen als Herman Weickertt Zum Ein siedel vnd Michel Burgkhartt vfm Olbersdorf personlich gestellen wollen vnd sollen bey verlust 50 sß Actum den 8 augusti Ao 1600.
+
+
+Example 111
+English:
+Christoff Nauman complains against Jacob Wildner concerning 10 ½ Talers, which he owes him for a horse, asks likewise for help. Because it stands upon reckoning-up, Jacob Wildner has vowed to bring it to rights between now and Monday
+
+Translation to Early Modern Bohemian German:
+Christoff Nauman Claget auff Jacob wildner wegen.10 ½. Tal, so ehr ihme Vor ein pferd schuldig, bitten gleichfals Vmb hulff. Weil es auff abrechnung stehet hat Jacob wildbner zwischen hier Vnd montags richtigkeit zutreffen angelobet.
+
+
+Example 112
+English:
+Since the magistrate in Friedlandt came into the manorial court, and complained in the highest terms how the village headman in Mildenaw was taking it upon himself to cart in salt from elsewhere, and asked that they be taken into account in this matter. Thereupon it was commanded that he be watched and if he might drive back, to hinder his salt.
+
+Translation to Early Modern Bohemian German:
+Demnach der Richter inn Friedlandt ins Ambt Kommen, sich Zumb höchsten beschweret, wie sich der Schulteß zu Mildenaw vntterstehen, anderweidt Salz eintzuführen, Vnnd gebehten, disfals sie im Acht Zunehmen. darauff anbeüohlen, aüff ihnen achtung zugeben, Vnd so ehr Zuruck fahren möchte, sein Saltz Zuhemmenn.
+
+
+Example 113
+English:
+The lord monastery-governor causes to be brought forward that Jacob Leubner in Cunersdorff died last year, left two of his sister's children to him, asks that this inheritance be issued to him, considering that between the monastery-governor concerning the serfs at all times there was maintained good correspondence, and the serfs on both sides had at all times been issued, asks that this should still be continued.
+
+Translation to Early Modern Bohemian German:
+Der Her Kloster Vogt leßet Vorbringen, das Jacob leubner Zu Cunersdorff Vorgangenes ihares Todes Vorblichen, hette zwej seiner geschwister Kind. ihme Vorlaßen, bittet ihnen solche Vorlaßenschafft zukommen Zulaßen, In betrachtung das Zwisch. den Kloster Vogtt wegen der Vntterthanen iederzeit gut Correspondenz gehallten, wehren die Vntterthanen auff beiden seizten iederzeit abgevolget word. bittet solches nachmals continuiren.
+
+
+Example 114
+English:
+I, N.N, swear to God the Almighty to the noble strict honourable and well-renowned Balthasar von Bindeman in Ebersdorf a proper oath of fealty, to be good, loyal, obedient and ready, to further his grace's best, to warn him of harm, according to my highest ability as befits and beseems a pious loyal serf so help me God and his holy word.
+
+Translation to Early Modern Bohemian German:
+Ich, N. N. schwere Zu Gott dem Almechtigen dem Edlen Gestrengen Ernfesten Vnd wohlbenambten Balthasare Von Bindeman Zu Ebersdorff eine rechte Erbhundligung S. gut, getrew, gehorsamb, Vnd gewertig Zu sein, S. gn.st bestes Zubefordern schaden zuwarnen, nach meinem hochsten Vormogen wie einen Frommen getrewen Vntterthanen eigenet, vnd gebuhret, so wahr mir Gott helffe Vnd sein heiliges wort.
+
+
+Example 115
+English:
+Since on Cantate Sunday, counter to the manor's prohibition, he let himself be heard saying publicly in front of the church in Reichenau, that he and the society of his like did not want to have the new pastor there, and yet had not known any lack at all to impute, for this reason he was taken into imprisonment and released again as follows that in future when he is summoned he shall report back before the manor, and during this commit no further mutiny, on pain of 50 Schocks fine to the manor, concerning which he named pledges, Hans Herbig the miller and Wentzel Bischoff there, dated 19 May 1607.
+
+Translation to Early Modern Bohemian German:
+Demnach er An Sontag Cantate Wieder der herrschafft Verbott, sich Offentlich für der Kirchen Zu Reichenaw horen lassen, das er Vnd seines gleichen gesellschafft, den Newen Pfarrer daselbst, Nit haben Wollen, Vnd Ihme doch gar keinen Mangel zu geben gewust, Als ist er hierumb gefenglich eingezogen vnd darauff solcher gestaldt entlediget worden, das er sich künfftig Auf erfoderung für die herrschafft Wiederumben gestellen soll Vnd In deß keiner Meuderey ferners beyfüehten bey straff der herrschafft 50 sß hierüber er Zue Burgen gesetzet hanß herbig der Möller, Vnd Wentzel Bischoff daselbst, Act: den 19 May Ao 1607.
+
+
+Example 116
+English:
+Fabian Nauman from Ditterspach reports, he sold Langen Mertten several bushels of wheat, on which he still remained outstanding to him 1 Schock minus 1 Groschen, but when he dunned for this debt, he answered, they had cheated him like villains, thereupon they struck one another, but after he Fabian Nauman came to old Mertten, he said to him, he Lange Mertten will not be a villain, after all he possessed a house, he would surely pay, thereupon he wanted to throw a double at him, but his son-in-law Nauman called him, as his father-in-law, an old villain. Now when the village headman then ordered Tzschanter, that he should take him Nauman into imprisonment, as well as Lang Mertten, he had wanted to carry this out but when he did not want to walk forward, and the village headman pushed him, and told him to walk forward, then Fabian Nauman stepped up to there, he should not thus push his brother like a dog, and thus Fabian Nauman hit the village headman in the face, so that he thereby lost 2 teeth.
+
+Translation to Early Modern Bohemian German:
+Fabian Nauman Von ditterspach berichtet ehr hette dem lang. Mertten ezliche schll weizen Vor Kaufft daran ehr ihme noch 1 sso. minus 1 g. Vorblieb.n, Nachdeme ehr aber dießerhalb. gemahnet, hette ehr geandtworttet, sie hetten ihn betrog.n wie schelmen, darauf hette sie einand. geschlagen, Nachdeme aber ehr Fabian Nauman Zumb alten Mertten Kommen, hette ehr wied. ihn gesagt ehr der lange Mertten wirdt Kein schelme sein, ehr hat ia ein hauß, ehr wirdt wohl Zahlen, darauf Hette ehr ihn mit einem doppell werffen wollen, sein Eydam Christoff Nauman aber hette ihn als seinen Schweiger Vatter einen altten schelmen gescholtten, Wie nün der Scholtze dem Tzschanter anbeuohlen, ehr soltte ihn Christoff Nauman gefenglich. einzieh. so wohl den lang. Mertten, Hette ehr daßelbe Vorrichten wollen wie ehr aber nicht wollen Forttgehen, Vnd den Scholze ihn gestossen, Vnd heisen Forttgehen, do wehre Fabian Nauman hierzu getretten, ehr solte seinen brudern nicht also stohßen wie einem hündt, Vnd hette also Fabian Nauman den Schulteßen ins gesicht geschlag.n, das ehr also Vmb 2. Zähne Kommen,
+
+
+Example 117
+English:
+Since Fabius Richter's daughter and the eldest 2 sons acted toward Mathes Pilzen from Ringenhain with all sorts of improper and defamatory words, also with indecent gestures with obstinate threatening words, so that Mathes Pilz was forced to complain about this in the manorial court, therefore Fabius Richter the father, because he permits this wantonness by his children to pass wholly unpunished, and even wants to defend and support them in it, for this reason he together with the one son was punished with prison and after release has vowed at the manorial court, together with his son-in-law Bartell Jemigen, that he will in future not further permit his children such wantonness, also together with them will do nothing improper against Mathes Pelzen and the latter's children and servants, on pain of paying 100 Schocks fine to the manor, which he vows to guarantee with his lands and his son-in-law alongside him, Actum in the Friedland manorial court 25 Aug 1604.
+
+Translation to Early Modern Bohemian German:
+Demnach Chabig Richters tochter Vndt die Eltesten 2 Söhne gegen Mathes Pilzen Von Ringenhain mit allerley vngebührlich. Vndt Schmehlichen Wortten, auch mitt VnZüchtigen geberdenen daß mit trotzigen drew worten sich erZeigett, das Mathes Pilz geZwung. worden, solchs beym Ambt Zu klagen, Als ist Chabig Richter der Vatter, weil er seinen Kindern solchen Muttwillen ganz Vngestrafft hinpassiren lasset, sie hierinnen noch Vorteidigen Vndt stercken wollen, derentweg. sambt dem einen Sohne mitt gefengnuß gestrafft, Vndt nach erledigung beym Ampt angelobet, sambt seinem Aidam Bartell Jemigen des er Künfftig seinen Kindern solchen Muttwillen ferner nit gestatten sich auch sampt demselben geg. Mathes Pelzen Vndt desselben Kindern Vnd Gesinde nichts Vngebührliches erzeigen wolle Bey straff der herrschafft Ainhundertt sß. Zu erlegen, dafür er mitt seinem guttern Vndt sein Aidam neben ihme Zuhafften angelobet, Actum im Ampt Friedlandt den 25 Augustj Ao 1604
+
+
+Example 118
+English:
+Von Schwanz estimates the half beer-tavern, half-village-court and church at 900 Talers, the half-smallholder he withdraws because her grace gifted it to his wife, he hopes her grace will not object to this proposal, and will not desire harm to him, wife and his children. The officials of Reichenberg offer 575 Talers, von Schwanz declares himself in response at 800 Talers cash, the officials will pay 600 Talers, after negotiation occurred this was so far mediated, that von Schwanz, for everything according to what is shown by von Döbschizen's purchase, shall pay 650 Talers, namely 300 Talers on Christmas, then on Easter 1615 350 Talers. Although hereupon 625 Talers are offered by the officials, but because von Schwanz complained in the highest terms, and petitioned for 650 Talers most diligently, the lord count his grace gave power of attorney for the 25 Talers, and therefore it remained at 650 Talers.
+
+Translation to Early Modern Bohemian German:
+Der Von Schwanz thuet den halber bierschanck, halbegerichte Vnd Kirche auff.900. Taler schazen. den halben gärtner thuet ehr austziehen Weill Ihr. Gn. seinen weibe denselb. geschanckt Vorhoffet Ihr. gn: werde solcher Vorschlag nicht zuentgegen sein, Vnd seines, seines weibes Vnd Kinder schäden nicht begehren. Es erbieten die beAmbten Von Reichenberg auff 575 Tal. der V. Schwanz erclehret sich replicando auff.800. Taler. bahr, die beAmbten wollen.600. Taler gebenn, Nach gepflogener Vntterhandlung ist dießes dahin ermittelt worden, das der Von Schwanz Vor alles nach ausweyßüng deßen Von döbschizens Kauff 650. Taler erlegen solle, Nemblichen.300. Tal auff weynachten, dan auff Ostern Ao. 1615..350. Taler. Hierauff seindt Zwahr Von den beambten.625. Taler. gebohten worden, weil aber der Von Schwanz sich Zumb höchsten beschweret, Vnd Vmb die.650. Tal. Zumb Vleißigsten gebehten, hat der her Grafens S. Gn: sich dero 25. Tal. gevolmechtiget, ist es also bej den.650. Tal. vorblieben.
+
+
+Example 119
+English:
+There appears Hans Goerge Schwan and Christof Legler, sworn-men from Neustadt, along with the current new bathmaster Tobias. The said bathmaster brings forward before the count's manorial court, because the former bathmaster has left on account of religion, and the people must have a bathmaster again, if the gracious manorial authority could favour him with this bath-business for 1/2 year, to dwell in the same, and for the people who had need of him, to provide advice and help, and would like to agree with the gracious manorial authority on this account for a fitting dues. Because the absconded bathmaster, upon having often been written to, has not reported himself. Hans Goerge Schwann brings forward that he had said to the new bathmaster that he should just set up the bath-parlour so that the people can bathe and in other ways make use of his art. But the bathmaster wanted to be appointed to it by the gracious manorial authority so that he might be the better secured from the absconded bathmaster, because he had in any case threatened him. Decision: by the count's manorial court the bathmaster is hereby granted that he shall look after the said bath-parlour for 1/2 year until the coming Michaelmas, also attend for a reasonable fee to those people who seek advice and help from him, and he shall pay the dues from it as the previous one paid it, and after this time has passed he shall report back into the count's manorial court. The sworn-men are also commanded that they shall render him all furthering, to refer patients to him, and if anything is laid in the way of the bathmaster he shall report to the community court.
+
+Translation to Early Modern Bohemian German:
+Erscheinet hans Görge Schwan Vnd Christof Legler geschwornen vnd der Newstad. Neben den Jezigen Newen Bader Tobias. Gemelter bader bringt Vorm Gräffl.: Ambte vor, weil der gewesene bader der Religion halber außgetrett., Vnd die leute einem bader wieder haben müeß., wen Ihme die gnädige obrkgiet solche baderey vf ein 1/2 Jahr vor gönen wolte, selbe zu bewohnen, vnd den leut. so seiner bedörfftig weren, mit Rath vnd hilfe beyspringen möchte, welche sich mit gnädig. Obriegkeit desweg. Vmb eim. gebührlich. Zins vergleichen. weil der ausgewichene bader auf offters zuschreib. sich nit gestell. hans Görge Schwann bringt vor, daß Er es den Newen bader gesagt hette, solt er der badstueb. nur anricht., damit die leute baden könt., Vnd sich sonst. seiner Kunst gebrauch. der bader aber hat von gnädiger Obriegkeit woll. dahin gewiesen werd. sein, damit er desto besser vor den ausgewichenen bader gesichert sey möchte, weil Er Ihme ohne dies gedreuet. Beschaid. Vom Gräffl.: Ambte wird dem bader hiemit mit gegeben, daß Er gemelte badstueben vf Ein 1/2 Jahr bies Kommenden Michäelis verseh. solte, auch die leute so Rath Vnd hilfe bey Ihme such., ihnen gegen eim leidentlich. beyspring., vnd sol den Zins dauon geb. wie der Vorige selb. abgelegt, Nach verfliessungk solcher Ziet sol er sich wieder im Gräffl. Ambte angeb. Ist auch den Geschwohrnen abgefohl. word., daß sie ihm alle beföderung thun soll, die patienten ihm zu weisen, vnd wan dem bader etwas in weg gelegt wird, sol er sich bey Gericht angeb.
+
+
+Example 120
+English:
+Hans Schneider, the Old, sold Maz Pfeiffer 9 Schocks of shingles, each Schock for 4 1/2 Kreuzer 17 1/2 Argents, but when he reminded him about payment, they had words with one another, and when he Schneider said it was villainous the way he was being delayed, on this Pfeiffer followed him and struck him down under the lower gate, so that he bled, which he Pfeifer admits, reporting that he called him a double villain; but because it was not proper that he Pfeiffer should help himself to law, he shall pay two Schocks fine on account of this crime committed against the old man, they provide pledges to live peacefully with one another, as well as Mertten Schneider; pledge for both Schneiders is Georg Trummel, pledge for Pfeifer the village headman of Lusdorf, and they apologized and reached agreement with one another; 5 Aug 1611.
+
+Translation to Early Modern Bohemian German:
+Hans Schneidter der Alte hat Maz Pfeiffern 9 sso schindeln verkaufft iedes schock Vmb 5 1/23 Kr 17 1/2 arg., wie ehr ihnen aber erinnert, die Zahlung Zuuorrichten, seindt sie mit wortter zusammen gerahten, vnd wie ehr Schneid. gesagt es seindt gleichwohl Ziembliche Schelm stücke, was einer also aufgehalten wirdt, hieraüft wehr ihne Pfeiffer nachgevolget ihnen Vnttern Thore darnieder geschlagen, das ehr geblüttet, welches ehr Pfeiffer gestand.n referirt, ehr hette ihnen einen duppel schelmen gescholten. weill aber ihme Pfeiffer nicht gebühren wollen, ihme selbsten rechtens zuuoerhelffen, sol ehr dießes ahn dem alten man geübten Freuels halb 2 sso zur straffe erlegen, Sie haben aber bürg geseztt Kegen ein ander Friedlich zuleb. so wohl Mertten Schneid., auff 10 sso welcher einander im geringsten mit worthen oder wercken beleidig., vnd vnrecht befunden wirde derselbe soll solche strafe erlegen, bürge vor beide Schneider George Trummel burge vor Pfeiffern der Schulten zu luesdorff, vnd haben es einander abgebehten Vnnd gutlich vorglichen.
+
+
+Example 121
+English:
+Hans Pilz in Cunersdorf reports that there were several peasants in their community who did not do demesne-services on their Hufen, namely Mertten Apelt, Maz Hoffman and Christoff Huben, and then a Rutte with Jacob Mauerman.
+
+Translation to Early Modern Bohemian German:
+Hans Pilz Zue Cünfersdorff Zeiget ahn, das ezliche Pauren in ihrer gemeine wehre, welche ihre hufen nicht Vor hofereckten. als Mertten Apelt, Maz hoffman, Vnd Christoff hubel dan eine rutte bej Jacob Mauerman.
+
+
+Example 122
+English:
+Matthes Henisch the village headman in Ruckersdorf brings forward: he had gone to the Tuesday yearly market in Friedland, to buy furs for his children, then he Paul Herttel came to him and the village headman of Schönwalda and asked them to come to breakfast with him, but they thanked him and excused themselves, they had already breakfasted, then he said if they were going to contemn him, then he would also not come to them, then they went to him together with Franz von Schwanz.
+
+Translation to Early Modern Bohemian German:
+Matthes henisch der Schultes Zu Ruckersd. bringet Vor, ehr wehre an dienstager Jahrmarkcte in Friedland gangen, vor seine Kinder fellwerg Zu Kauffen, do wehre, ehr Paul herttel Zu ihme Vnd den Schulteßen Zue Schönwalda geKomen sie gebehten, sie wollen zu ihme Zumb Frühstücke Komen, sie aber hette ihme gedanckt sich entschüldiget, sie hetten Vor hin gefurhestucket, do hette ehr gesagt wo sie ihnen winden Vor achten, woltten ehr zu ihnen auch nicht Kommen, do Wehren sie neb. Franzen Von Schwanzen zu ihme gangen.
+
+
+Example 123
+English:
+Since and when she lived with Matz Prucker from Ringenhain in fleshly fornication and thereby got pregnant, for this action she was taken into imprisonment and released again on pledges, as follows and thus, that whenever and however often she may be summoned she shall present herself before the lord his grace, on pain of 50 Schocks, for which entered into pledgeship Martin Fux from Mildenau, Nicol Jaeckel from the Weispach, signed 30 May 1600.
+
+Translation to Early Modern Bohemian German:
+Demnach Vnd Alß sie mit Matz Pruckern Von Ringenhain in flaischlicher Unzucht gelebet, Vnd drüber geschwengert Worden, Ist sie Wegen solcher miß handlung gefenglich eingeZog. Vnd Zue Pürgen Wied. herauß geben Worden dero gestaldt Vnd Also, das Wan Vnd so offt sie gefod.t Vorm herrn S. G. Zue gestellen, bey Peen 50 sß, dafur sich Pürglich ein gelaßen Martin fux Uon Mildnaw, Nicol Jäckell Von d. weißpach, Signat: den 30 May Ao p 1600
+
+
+Example 124
+English:
+They are given this decision, that the peasants and smallholders shall at all times in the taxes, to fulfill the 4 Schocks, pay 4 Kreuzers for each Rutten and the Scholz 3 Kreuzers, and thus in other assessments in future at all times the peasants and smallholders shall be allocated 4 denarii and the Scholz 3 denari,i but excepting what is to be paid to the soldiers, which the peasants and smallholders alone shall pay.
+
+Translation to Early Modern Bohemian German:
+Ist ihnen dieser bescheidt geben worden, dz die bauern Vnd gertner allzeit in Stewren Zue erfüllung der 4 sß. von Jeden Rutten 4 k. Vndt der Scholz 3 k. Vnd also in andern assessments Kunftig allzeit die bauren vnd gerntner 4 d. Vnd der Scholz 3 d. gegeben werden, doch auß genomen was denn landts knechten zu geben, solchs sollen dj bauren vnd gerntner allein erlegen.
+
+
+Example 125
+English:
+Since Christoff Herwig the Old did not deliver his son, upon frequent command, for this reason he was taken into imprisonment, and kept in there until he delivered his son, but was released again on pledges, to deliver his son again at any time, for which is pledge, Michel Herwig in Mildenaw, signed 12 Feb 1607.
+
+Translation to Early Modern Bohemian German:
+Demnach Christoff herwig der Alte, seinen Sohn Auff vielfeltigen befehl nicht gestellet, ist er derentwegen Gefenglich eingezogen, Vnd darin behalten biß er seinen Sohn gestellet, ist aber Auff Burgen wieder herauß geben, sein Sohn Jeder Zeit wieder Zugestellen, hierfur ist Burge Michel herwig Zu Mildenaw, Signatum denn 12 Febr: Ao: 1607 p
+
+
+Example 126
+English:
+Since he took it upon himself to encroach and work in the villages against the privileges given to the tailors in Friedland for which reason he was caught by the masters, therefore today the 26 Feb 1594 he was instructed to pay the masters the fine namely 1 Schock into the manorial court within 3 weeks, but in what concerns the fine to the lord his grace, this is to be delivered upon the lord his grace's recognition, also he promised not to take on any more tailoring work or to complete the same on pain of severe punishment for which is pledge Mathess Weisse village headman there, signed 26 Feb 1594.
+
+Translation to Early Modern Bohemian German:
+Demnach er sich vnterstanden, Wieder der schneid. Zue Friedlandt gegebenen Priuilegia Aufn dörffern zu stören Vnd Zu Arbeitten, darüber er von Meistern ergrieffenn, Allß ist ihm heutte dato denn 26 februarij deß 94. Jahrs Im Ambt Zufferleget, den Meistern Innerhalben drey Wochen die straff Alß 1 sso im Ambt zu erlegen, Was aber des herrn S. G. straff Anlangend. Ist solches Aufs herrn S. G. erkendtnuß gestellen, Auch hatt er Zuegesagt, ferner mit Keiner schneid. Arbeit sich zubelegen oder die zu vorfertiguen By hartter straf dafur Purge Matheß weiße Schulteß daselbst. Signatum den 26 februarij ao. 94
+
+
+Example 127
+English:
+Further change in quartering of the two companies which are to be found in this count Gallas manor of Friedland, count Montecuccolo regiment of horse from 23 Dec 1655 to 5 Jan, both days inclusive, the now approaching 1656 year, for 14 days.
+
+Translation to Early Modern Bohemian German:
+Abermahlige quartier verenderung der beeden in hiesig. graf Gallasischen herrschaft Fridland befindlichen Compagnien, graf. Montecuccolischen regiments Zu pferd vom 23. xbris 1655 bies 5.ten January beede tage inclusivè, des nun baldannahenden 1656igen Jahres, per 14. tage lange gehende.
+
+
+Example 128
+English:
+Christof Nicht in Raspenau promised, since he attacked the lord chanceller with improper words claiming that he had not Administrated justice in his affairs, therefore he has vowed in the manorial court, on pain of 300 Schocks fine, that he would exhaustively detail his case in which injustice was done to him within 3 weeks, and all justice should be issued to him, and it would be talked through with the lord chanceller, but if he fails to do this he shall be taken into proper punishment as an example to others, pledges are Jacob Wildner the village headman and Paul Nauman in Haindorf.
+
+Translation to Early Modern Bohemian German:
+Christoff Niche Zu Raspenaw hat im Ambt zugesagt, demnach ehr dem hern Cantzlern mit Vnziemblichen wortten angegrieffen, als ob ehr inn seinen sachen nicht die justitiam administrierte, Als hat ehr im Ambt angelobet, bej straffe.300. sso, das ehr seine sache das ihme Vnrecht geschehen an innerhalben drej wochen ausfurlichen machen solle, sol ihme alle billigkeit wiederfahren, vnd mit dem hern Cantzlern daraus geredet werden, In vorbleibung aber sol ehr in geburliche strafe genomen werden, andern zum exempell burge, Jacob wildner der Schulteß Vnd Paul Nauman zu haindorff. p.
+
+### Translation Task. Only translate the following text. Nothing else!
+
+English:
+Matz Schülteß's son there complains against Ernsten von Kyaw, that last Easter, as he was sowing oats, he came riding from Friedlandt and rode across his oats, but after he the son spoke to him, saying but he should not ride across the oats, and do damage, he wheeled around on the field, then drew his weapon, hit him over the head, and afterwards called him a villain several times, also struck him to the ground with a gun.
+
+Translate to Early Modern Bohemian German and match the structure of the source text. Output only this translation and nothing else.<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>

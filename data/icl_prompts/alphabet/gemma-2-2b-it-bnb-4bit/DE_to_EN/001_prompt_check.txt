@@ -1,0 +1,20 @@
+<start_of_turn>user
+You are a helpful assistant tasked with translating from Early Modern Bohemian German to English. NEVER provide an introduction to the translation (e.g. '## Translation:', '**Translated Text:**', ':', '```', '>', '*', etc.), explanations or clarifications.
+In the following, there is an example how you should translate in the translation task.
+
+### Example Translation:
+
+Example 1
+Early Modern Bohemian German:
+Der Schulteß Zu Mildenaw, hatt Hanß Nichten vnd Mertin Lucaßen Zu Purgen gesatzt, das er sich von dato Zwischen hier vnd Sonnabents richtig Zahlen vnd befridigen will, Sig: Fridland den 23 Octobris A.o 85.
+
+Translation to English:
+The village headman of Mildenau names Hans Nicht and Mertin Lucass as pledges that he will pay correctly between now and Saturday, Friedland 23 Oct 1585
+
+### Translation Task. Only translate the following text. Nothing else!
+
+Early Modern Bohemian German:
+Matz Schülteßen Sohn hanns daselbsten claget Vber Ernsten Vonn Kyaw, wie ehr Vorgangenen Ostern, wie ehr Haber geseet, Von Friedlandt geritten Kommen ihme Vber den Haber geritten, nachdeme aber ehr der Sohn ihn angeredet, ehr solte ihnen doch nicht Vber den hafer reitten, Vnd schad. Thun, Hette ehr sich aufm acker herumb getummelt, nachmals die wehre ausgezog., ihnen aufn Kopff geschlag. Vnnd nachmals Zu ezlich. mahlen einen Schelmen gescholten, ihnen auch mit einen Rohr Zuboden geschlag.n.
+
+Translate to English and match the structure of the source text. Output only this translation and nothing else.<|end_of_turn|>
+<start_of_turn>model

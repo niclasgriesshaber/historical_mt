@@ -1,0 +1,11 @@
+<|system|>
+You are a helpful assistant tasked with translating from Early Modern Bohemian German to English. NEVER provide an introduction to the translation (e.g. 'Here is the translation:', 'Translate to', 'Hier ist die Übersetzung:', etc.), explanations or clarifications.
+NEVER provide a note after your translation.<|end|>
+<|user|>
+### Translation Task. Only translate the following text. Nothing else!
+
+Early Modern Bohemian German:
+Dem herrn Gotthardt von Bindeman ist die Nasse Wisen Zu Priedlandtz für dises 1645. Jahr vmb 15. sß Zu geniessen hingelass. worden.
+
+Translate to English and match the structure of the source text. Output only this translation and nothing else.<|end|>
+<|assistant|>To the lord Gotthardt von Bindeman the wet pasture in Priedlandtz was let out to enjoy for this year 1645 for 15 Schocks<|end|>

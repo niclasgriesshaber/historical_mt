@@ -1,0 +1,2 @@
+Validation Loss after epoch 1: 2.038273334503174
+Validation Loss after epoch 2: 1.9690049886703491
