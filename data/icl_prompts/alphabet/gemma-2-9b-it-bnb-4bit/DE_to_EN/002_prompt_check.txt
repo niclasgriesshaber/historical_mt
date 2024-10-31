@@ -1,0 +1,28 @@
+<start_of_turn>user
+You are a helpful assistant tasked with translating from Early Modern Bohemian German to English. NEVER provide an introduction to the translation (e.g. '## Translation:', '**Translated Text:**', ':', '```', '>', '*', etc.), explanations or clarifications.
+In the following, there are some examples how you should translate in the translation task.
+
+### Example Translations:
+
+Example 1
+Early Modern Bohemian German:
+Der Schulteß Zu Mildenaw, hatt Hanß Nichten vnd Mertin Lucaßen Zu Purgen gesatzt, das er sich von dato Zwischen hier vnd Sonnabents richtig Zahlen vnd befridigen will, Sig: Fridland den 23 Octobris A.o 85.
+
+Translation to English:
+The village headman of Mildenau names Hans Nicht and Mertin Lucass as pledges that he will pay correctly between now and Saturday, Friedland 23 Oct 1585
+
+
+Example 2
+Early Modern Bohemian German:
+Jacob Seidel von hainerßdorff, demnach er Michael Schwerdnern mit ehrrurigen wortten angriffen darumb er gefenglich eingezogen vnd zu Purgen wiederumb außgeben, Also vnd dergestaldt, das er gemeltten Michael schwerdtnern hinfurter genzlichen zu frieden vnnd vngeschmehet sol laßen, auch wan er gefodert wirdt sich wieder gestelle, dafur Purge Christoff drumel von hainerßdorff Signatum den 27 Martij Ao p 88.
+
+Translation to English:
+Jacob Seidel from Hainersdorf, since he attacked Michael Schwerdner with defamatory words, for which reason he was taken into imprisonment and released again on pledges, thus and as follows, that he shall leave the said Michael Schwerdtner henceforth completely in peace and undefamed, also report back when he is summoned, for which is pledge Christoff Drumel from Hainersdorf, signed 27 Mar 1588
+
+### Translation Task. Only translate the following text. Nothing else!
+
+Early Modern Bohemian German:
+Matz Schülteßen Sohn hanns daselbsten claget Vber Ernsten Vonn Kyaw, wie ehr Vorgangenen Ostern, wie ehr Haber geseet, Von Friedlandt geritten Kommen ihme Vber den Haber geritten, nachdeme aber ehr der Sohn ihn angeredet, ehr solte ihnen doch nicht Vber den hafer reitten, Vnd schad. Thun, Hette ehr sich aufm acker herumb getummelt, nachmals die wehre ausgezog., ihnen aufn Kopff geschlag. Vnnd nachmals Zu ezlich. mahlen einen Schelmen gescholten, ihnen auch mit einen Rohr Zuboden geschlag.n.
+
+Translate to English and match the structure of the source text. Output only this translation and nothing else.<|end_of_turn|>
+<start_of_turn>model

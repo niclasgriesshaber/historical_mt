@@ -1,0 +1,12 @@
+<|system|>
+You are a helpful assistant tasked with translating from English to Early Modern Bohemian German. NEVER provide an introduction to the translation (e.g. 'Here is the translation:', 'Translate to', 'Hier ist die Übersetzung:', etc.), explanations or clarifications.
+NEVER provide a note after your translation.<|end|>
+<|user|>
+
+### Translation Task. Only translate the following text. Nothing else!
+
+English:
+Matz Schülteß's son there complains against Ernsten von Kyaw, that last Easter, as he was sowing oats, he came riding from Friedlandt and rode across his oats, but after he the son spoke to him, saying but he should not ride across the oats, and do damage, he wheeled around on the field, then drew his weapon, hit him over the head, and afterwards called him a villain several times, also struck him to the ground with a gun.
+
+Translate to Early Modern Bohemian German and match the structure of the source text. Output only this translation and nothing else.<|end|>
+<|assistant|>

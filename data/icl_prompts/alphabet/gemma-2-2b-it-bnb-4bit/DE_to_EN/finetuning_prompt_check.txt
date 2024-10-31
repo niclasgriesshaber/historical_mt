@@ -1,0 +1,7 @@
+Translate the following from Early Modern Bohemian German to English:
+
+### Input
+Dem herrn Gotthardt von Bindeman ist die Nasse Wisen Zu Priedlandtz für dises 1645. Jahr vmb 15. sß Zu geniessen hingelass. worden.
+
+### Translation
+To the lord Gotthardt von Bindeman the wet pasture in Priedlandtz was let out to enjoy for this year 1645 for 15 Schocks<eos>
