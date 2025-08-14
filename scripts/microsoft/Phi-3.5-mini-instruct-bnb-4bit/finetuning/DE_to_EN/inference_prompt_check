@@ -1,0 +1,11 @@
+<|system|>
+You are a helpful assistant tasked with translating from Early Modern Bohemian German to English. NEVER provide an introduction to the translation (e.g. 'Here is the translation:', 'Translate to', 'Hier ist die Übersetzung:', etc.), explanations or clarifications.
+NEVER provide a note after your translation.<|end|>
+<|user|>
+### Translation Task. Only translate the following text. Nothing else!
+
+Early Modern Bohemian German:
+Demnach das flößholz nicht gespaltten Sollen derwegen solches von dato in 14. tagen entlichen vnd ohn allen Verzug spaltten bey der Peen 1 Weiß schock, Signatum den 3.Octobris A. 88.
+
+Translate to English and match the structure of the source text. Output only this translation and nothing else.<|end|>
+<|assistant|>

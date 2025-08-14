@@ -1,0 +1,9 @@
+Entry 1:
+Early Modern Bohemian German (Sheilagh Ogilvie's Transcription): 1. Ein Ambt befehlich an h. Joachim vom Eberhardt auf anhalten deren von Penzig Zumach. daß er sich der wießen worauff herr Ludwig von Pentzig Zu praetendiren vnd solche ihm ver hupothecirt, enthaltten solle, weiln er im andere weg vnd mittel zu keiner Zahlung Zubring.
+English (Sheilagh Ogilvie): 1. An manorial court command is to be made to lord Joachim Vom Eberhardt upon application of the von Penzig, that he shall refrain from the pasture upon which lord Ludwig von Pentzig has claims and has mortgaged to him, because he is not to be brought to payment by any other way or means.
+
+DE_to_EN_finetuning: 1. A manorial court's command to lord Joachim von Eberhardt auf Anhalten Derns von Penzig Zumach. that he shall refrain from the Wiesen on which lord Ludwig von Pentzig has a claim and which he has mortgaged to him, because he is not in a position and does not have means to bring it to any payment.
+EN_to_DE_finetuning: 1. Ein Ambtsbefehl an herrn Joachim Vom Eberhardt auf antrag der von Pentzig zu machen, dz er sich von der wiesen, auf welcher herr Ludwig Von Pentzig anfiege vndt Vortraget, enthalten soll, weil er von keinen andern weg oder mittel zu bezahlung gebracht werden könne.
+
+==================================================
+
