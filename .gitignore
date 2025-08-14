@@ -55,3 +55,15 @@ venv.bak/
 # Temporary files
 *.tmp
 *.temp
+
+# Dataset files
+*.xlsx
+*.csv
+*.json
+*.parquet
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+data/datasets/*.xlsx
+data/datasets/*.csv
