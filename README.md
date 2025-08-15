@@ -15,7 +15,7 @@ Much more research on historical, low-resource languages is needed to safely app
 
 1. **Data preprocessing**: `scripts/data_preprocessing/`
 2. **ICL experiments**: `scripts/[model]/icl/`
-3. **Fine-tuning**: `scripts/[model]/finetuning/`
+3. **Fine-tuning** with Unsloth library: `scripts/[model]/finetuning/`
 4. **Evaluation**: `scripts/[model]/evaluation/`
 
 ## Models
